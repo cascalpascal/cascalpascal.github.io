@@ -3,6 +3,9 @@ layout: post
 title: About
 ---
 
-This is an example page!
+My name is Pascal.
+I'm having a marvelous time.
 
-Actually, it has the same layout of a post...
+"Your ability to tolerate uncertainty in life determines your potential for growth.
+So, take the unfamiliar path.
+When you reach the end of the path, you will be a better person."
