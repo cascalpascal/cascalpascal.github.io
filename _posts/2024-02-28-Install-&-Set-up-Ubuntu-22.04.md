@@ -42,10 +42,10 @@ tags: [tutorial, ubuntu]
   - CMake
 - CI/CD
   - Git 설치 + 구성
-  ```
-  $ git config --global user.name "your_username_example"
-  $ git config --global user.email "your_useremail_example"
-  ```
+```
+$ git config --global user.name "your_username_example"
+$ git config --global user.email "your_useremail_example"
+```
   - GitHub
 - vim, vim-gtk3
 - zsh, oh-my-zsh
@@ -61,65 +61,65 @@ tags: [tutorial, ubuntu]
 ### Generate a new SSH key and add it to the ssh-agent
 
 - Generate a new SSH key
-  ```
-  $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-  ```
+```
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
 - Start the ssh-agent
-  ```
-  $ eval "$(ssh-agent -s)"
-  ```
+```
+$ eval "$(ssh-agent -s)"
+```
 - Add your SSH private key to the ssh-agent
-  ```
-  $ ssh-add ~/.ssh/id_rsa
-  ```
+```
+$ ssh-add ~/.ssh/id_rsa
+```
 - Copy your SSH public key
-  ```
-  $ cat ~/.ssh/id_rsa.pub
-  ```
+```
+$ cat ~/.ssh/id_rsa.pub
+```
 - Add your SSH public key to the GitHub account
 
 ### Git과 GitHub Repository 연동
 
 - 현재 디렉토리에서 Git 저장소 초기화
-  ```
-  $ git init
-  ```
+```
+$ git init
+```
 - Github에서 Repository 생성
 - Git과 GitHub 원격 저장소를 연결
-  ```
-  $ git remote add origin <Repository URL>
-  ```
+```
+$ git remote add origin <Repository URL>
+```
 - 작업 후 push
-  ```
-  $ git add test.txt
-	$ git commit -sm "Test commit"
-  $ git push -u origin main
-  ```
+```
+$ git add test.txt
+$ git commit -sm "Test commit"
+$ git push -u origin main
+```
 ### GitHub 명령어
 - 업데이트 할 파일 추가
-  ```
-  $ git add .
-  ```
+```
+$ git add .
+```
 - 현재 상태 확인
-  ```
-  $ git status
-  ```
+```
+$ git status
+```
 - 히스토리 이름 지어주기
-  ```
-  $ git commit -m "history_name_example"
-  ```
+```
+$ git commit -m "history_name_example"
+```
 - GitHub repository와 내 local project와 연결
-  ```
-  $ git remote add origin repository_URL_example
-  ```
+```
+$ git remote add origin repository_URL_example
+```
 - 잘 되었는지 확인
-  ```
-  $ git remote -v
-  ```
+```
+$ git remote -v
+```
 - GitHub로 올리기
-  ```
-  $ git push origin master
-  ```
+```
+$ git push origin master
+```
   
 ### Install GitHub desktop on Ubuntu
 ```
