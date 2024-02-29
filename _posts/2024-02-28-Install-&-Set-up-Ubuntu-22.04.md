@@ -96,13 +96,17 @@ $ git commit -sm "Test commit"
 $ git push -u origin main
 ```
 ### GitHub 명령어
-- 업데이트 할 파일 추가
+- stage 할 파일 추가
 ```
 $ git add .
 ```
-- 현재 상태 확인
+- 다음 commit에 포함될 staged된 파일과 staged되지 않은 파일 확인
 ```
 $ git status
+```
+- commit된 파일과 현재 상태 비교
+```
+$ git diff
 ```
 - 히스토리 이름 지어주기
 ```
