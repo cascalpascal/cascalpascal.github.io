@@ -8,11 +8,19 @@ tags:
   - certificate
 ---
 
+>**Course**
+>
+>[[coursera] Google Project Management: Professional Certificate](https://cascalpascal.github.io/coursera-google-project-management-professional-certificate)
+---
+
+
+
 ## Project
 
 프로젝트는 원하는 결과를 얻기 위해 완료해야 하는 일련의 작업이다. 
 원하는 결과를 얻기 위해서는 협력과 신중한 계획이 필요하다. 
 이는 프로젝트가 계획대로 순조롭게 진행되고 예산 내에서 수행될 수 있도록 한다.
+
 
 ## Project Management
 
