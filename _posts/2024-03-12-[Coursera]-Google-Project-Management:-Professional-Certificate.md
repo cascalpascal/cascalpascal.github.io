@@ -10,6 +10,7 @@ tags:
 
 # Course
 ---
+{: data-content="hr with text"}
 ## Foundations of Project Management
 
 Module 1: What is project management?
