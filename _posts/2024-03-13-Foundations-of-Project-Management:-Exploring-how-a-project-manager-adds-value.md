@@ -11,8 +11,7 @@ tags:
 >**Course**
 >
 >[[coursera] Google Project Management: Professional Certificate](https://cascalpascal.github.io/coursera-google-project-management-professional-certificate)
->
->
+
 >**Bookmarks**
 >
 >- [Project managers](#project-managers)
@@ -90,7 +89,7 @@ tags:
 
 **Interpersonal skills** are the behaviors you use to interact with others, such as communication, active listening, and leadership.
 
-![Pasted image 20240315094800](https://github.com/cascalpascal/Golden/assets/133131020/3d754913-94b5-4828-8b19-25f9dc0227e0)
+![imageaddresscopy](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240315094800.png?raw=true)
 
 - **Teaching and mentoring**
 
@@ -140,7 +139,9 @@ A **cross-functional team** includes team members who have different backgrounds
 Sometimes the members of a cross-functional team are referred to as “T-shaped professionals.” 
 They are skilled in how to collaborate and innovate with those in different job functions and across different departments, but they also contribute their own specific areas of expertise.
 
-![Pasted image 20240315102202](https://github.com/cascalpascal/Golden/assets/133131020/629575fc-ad26-4950-abce-38b407617003)
+
+![cross-functional team](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240315102202.png?token=GHSAT0AAAAAACOMKHYFEBOH4JDAN2XTGSNGZPXEKZA)
+
 
 
 
