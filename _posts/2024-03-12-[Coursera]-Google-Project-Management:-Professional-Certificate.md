@@ -8,7 +8,7 @@ tags:
   - certificate
 ---
 
-# [Coursera] Google Project Management: Professional Certificate Course
+# Course
 
 ## Foundations of Project Management
 
