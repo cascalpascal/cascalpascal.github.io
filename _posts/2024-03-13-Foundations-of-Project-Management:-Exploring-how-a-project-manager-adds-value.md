@@ -1,28 +1,28 @@
 ## Project managers
 
-PM은 모든 단계에서 완벽한 organizational 및 대인 관계 기술을 사용하여 프로젝트를 처음부터 끝까지 지휘하고 팀의 가이드 역할을 한다.PM은 prioritization, delegation 및 effective communication을 통해 팀과 조직에 기여한다.
+ Project managers guide projects from start to finish using impeccable organizational and interpersonal skills at every stage. They add values for the team, employing prioritization, delegation, and effective communication to contribute to both the team and the organization.
 
 - **Prioritization**
 
-효과적으로 tasks의 우선순위를 정할 수 있다면 더 나은 프로젝트 결과를 얻을 수 있다. PM은 프로젝트를 완료하는 데 필요한 작업의 효과적인 우선순위 지정을 통해 팀과 조직을 돕는다. PM은 팀 구성원이 대규모 작업을 식별하고 작은 단계로 세분화하도록 돕는 전문가이다. 어떤 작업의 우선순위를 정하기 위해 프로젝트 성공에 가장 중요한 요소들을 선별하기 위해 팀과 stakeholders와 소통하여 정보를 수집하고 계획을 세운다. **Stakeholder**는 조직의 리더처럼 프로젝트의 완료와 성공에 영향을 받거나 관심이 있는 사람이다. 
+ Effectively prioritizing tasks can lead to better project outcomes. Project managers assist the team and organization by efficiently prioritizing tasks required to complete the project. They are experts in helping team members identify large tasks and break them down into smaller steps. To determine the priority of tasks, project managers communicate with the team and stakeholders to gather information and develop plans by selecting the most critical factors for project success. **Stakeholders** are individuals who, like organizational leaders, are impacted by or have an interest in the completion and success of the project.
 
 - **Delegation**
 
-PM은 각 task를 가장 잘 수행할 수 있는 인력에게 일을 연결할 줄 알아야한다.
-
+ Project managers should be able to assign tasks to the individuals best suited to perform each task effectively.
+ 
 - **Effective communication**
 
-PM은 팀과 stakeholders와 효과적으로 의사소통해야 한다. 이는 계획과 아이디어를 투명하게 제시하고 정보를 전달하는 것을 말한다. PM은 작업 진행 상황에 대해 팀과 정기적으로 소통하고 팀원에게 지원이 필요한 분야를 알아내 도와야 한다. PM은 프로젝트에 투자하는 회사 리더 등 팀 외부의 사람과도 소통해야 한다.
+ Project managers need to effectively communicate with the team and stakeholders, which involves presenting plans and ideas transparently and conveying information clearly. They should communicate regularly with the team about the progress of tasks and identify areas where team members need support. Additionally, they need to communicate with external individuals, such as company leaders investing in the project.
 
 ## Key project manager roles and responsibilities
 
-- **Planning and organizing**
+### - **Planning and organizing**
 
   - Making use of productivity tools and creating processes.
   
   - Create plans, timelines, schedules, and other forms of documentation to track project completion
 
-- **Budgeting and controlling costs, and other factors**
+### - **Budgeting and controlling costs, and other factors**
 
   - Monitor and manage the budget
   
@@ -40,7 +40,7 @@ PM은 팀과 stakeholders와 효과적으로 의사소통해야 한다. 이는 �
 
 #### example
 
-Back when I was a program manager in Student Development here at Google, one of our goals was to create pathways for students who identify with communities that are underrepresented in the technology industry. A large part of my day-to-day responsibilities involved working with two separate engineering teams to create our technical curriculum. To manage the tasks associated with this project, I created separate project trackers for each team that outline the vision for the curriculum. These trackers kept both teams in the loop about the timeline for delivery, the categories and subcategories for work, and the team members assigned to each task, I also made sure to update our stakeholders every step of the way. By actively managing tasks throughout the project lifecycle, I was able to keep tabs on everyone's work and efficiently inform stakeholders, which allowed us to achieve our project goal with minimal issues. 
+ Back when I was a program manager in Student Development here at Google, one of our goals was to create pathways for students who identify with communities that are underrepresented in the technology industry. A large part of my day-to-day responsibilities involved working with two separate engineering teams to create our technical curriculum. To manage the tasks associated with this project, I created separate project trackers for each team that outline the vision for the curriculum. These trackers kept both teams in the loop about the timeline for delivery, the categories and subcategories for work, and the team members assigned to each task, I also made sure to update our stakeholders every step of the way. By actively managing tasks throughout the project lifecycle, I was able to keep tabs on everyone's work and efficiently inform stakeholders, which allowed us to achieve our project goal with minimal issues. 
 
 ## Responsibilities that utilize interpersonal skills
 
