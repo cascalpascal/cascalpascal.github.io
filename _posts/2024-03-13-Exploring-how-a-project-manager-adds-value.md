@@ -89,7 +89,8 @@ tags:
 
 **Interpersonal skills** are the behaviors you use to interact with others, such as communication, active listening, and leadership.
 
-[![Responsibilities that utilize interpersonal skills](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240315094800.png?token=GHSAT0AAAAAACOMKHYEZASFMS2KK26L6CXCZPXEPAA)
+[![Responsibilities that utilize interpersonal skills](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240315094800.png)
+
 
 - **Teaching and mentoring**
 
@@ -140,7 +141,7 @@ Sometimes the members of a cross-functional team are referred to as “T-shaped 
 They are skilled in how to collaborate and innovate with those in different job functions and across different departments, but they also contribute their own specific areas of expertise.
 
 
-![cross-functional team](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240315102202.png?token=GHSAT0AAAAAACOMKHYFEBOH4JDAN2XTGSNGZPXEKZA)
+![cross-functional team](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240315102202.png?raw=true)
 
 
 
