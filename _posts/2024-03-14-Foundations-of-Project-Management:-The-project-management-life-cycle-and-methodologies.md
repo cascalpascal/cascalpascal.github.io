@@ -8,19 +8,19 @@ tags:
   - project-management
 ---
 
-**Course**
-
-[[coursera] Google Project Management: Professional Certificate](https://cascalpascal.github.io/coursera-google-project-management-professional-certificate)
-
----
-
-**Bookmark**
-
-- [Project life cycle](#project-life-cycle)
-
-- [Project management methodologies](#project-management-methodologies)
+> **Course**
+>
+> [[coursera] Google Project Management: Professional Certificate](https://cascalpascal.github.io/coursera-google-project-management-professional-certificate)
+>
+> 
+> **Bookmark**
+>
+> - [Project life cycle](#project-life-cycle)
+> - [Project management methodologies](#project-management-methodologies)
     
 ---
+
+
 
 # Project life cycle
 
