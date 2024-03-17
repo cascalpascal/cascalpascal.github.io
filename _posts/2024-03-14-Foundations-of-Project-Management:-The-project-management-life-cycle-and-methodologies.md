@@ -11,10 +11,9 @@ tags:
 > **Course**
 >
 > [[coursera] Google Project Management: Professional Certificate](https://cascalpascal.github.io/coursera-google-project-management-professional-certificate)
->
+
+> **Bookmarks**
 > 
-> **Bookmark**
->
 > - [Project life cycle](#project-life-cycle)
 > - [Project management methodologies](#project-management-methodologies)
     
@@ -26,25 +25,25 @@ tags:
 
 
 
-- **Initiate the project**
+### - Initiate the project
 
  You'll define project goals and deliverables, identify the budget and resources you'll need, the people involved in your project, and any other details that can impact the successful completion of your project. You'll document all this information in one place to showcase the project's value, and hopefully get approval to move forward with it. 
 
 
 
-- **Make a plan**
+### - Make a plan
 
  Once the project is approved, it's time to get rolling. You'll make a plan for how you will meet the goals of your project. There are all kinds of ways to plan your project, and we'll get into some different methods and techniques later on. Right now, the important thing to know is that for every single project, creating a plan of how you're going to meet your goals is absolutely 100 percent essential. To be effective, your plan needs to include a lot of things. For example, a budget, a breakdown of all the tasks that you need to be completed, ways to communicate team roles and responsibilities, a schedule, resources, and what to do in case your project encounters problems or needs to change.
 
 
 
-- **Execute & complete tasks**
+### - Execute & complete tasks
 
  While you might be in charge of completing certain tasks in the project, your primary tasks as the project manager are to monitor progress and keep your team motivated. You also remove any obstacles that might come up so that the tasks are executed well and on time. 
 
 
 
-- **Close the project**
+### - Close the project
 
  Why is it important to close? One big reason is so your team has a moment to celebrate all of their hard work. Closing the project is also a chance to evaluate how the project went. You can make note of what worked and what didn't so you can plan better for next time. Even if the project was a massive success, it's helpful to take time to reflect. Closing the project is also a great way to connect with anyone outside your team who may have had interest in the project's goal. You can let everyone know what was completed and what you accomplished. 
 
@@ -78,7 +77,7 @@ tags:
 ### Apply the project life cycle
 
 
-#### **1. Initiating the project**
+#### 1. Initiating the project
    
 - Discusses project goals with Flight Simulators, Inc. to gain a *clear understanding of what they are asking for*.
 
@@ -91,14 +90,14 @@ tags:
 - Jason then submits the proposal to Flight Simulators, Inc., and they accept it.
 
 
-#### **2. Making a plan**
+#### 2. Making a plan
 
 - Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks.
 
 - Jason *outlines the important deadlines and tasks* for the project to be successful. He creates a schedule to account for all resources, materials, and tasks needed to complete the project.
 
 
-#### **3. Executing and completing tasks**
+#### 3. Executing and completing tasks
 
 - Jason’s project team puts his plan in motion by executing the work.
 
@@ -107,7 +106,7 @@ tags:
 - It is also Jason’s responsibility to *communicate schedule and quality expectations*. Jason uses his communication skills to keep Flight Simulators, Inc. up to date on the project status and gather feedback from them.
 
 
-#### **4. Closing the project**
+#### 4. Closing the project
 
 - Jason’s team has successfully completed the training, and he delivers it to Flight Simulators, Inc. They are very pleased with how it turned out!
 
@@ -234,7 +233,7 @@ In this phase, close out the project.
 
 
 
-### **Key takeaway**
+### Key takeaway
 
  Each phase of the project life cycle has its own significance and reason for existing. By following the project life cycle, you’re ensuring that you are:
 
@@ -248,19 +247,19 @@ In this phase, close out the project.
 
 
 
-# **Project management methodologies**
+# Project management methodologies
 
  A project management methodology is a set of guiding principles and processes for owning a project through its life cycle. Project management methodologies help guide project managers throughout a project with steps to take, tasks to complete, and principles for managing the project overall.
 
 
 
-### **Linear**
+### Linear
 
  Linear means the previous phase or task has to be completed before the next can start. Using this type of linear project management approach, completing each step in order and sticking to the agreed upon specific results and being able to deliver just what the client ordered. 
 
  Linear projects don't require many changes during development and have a clear sequential process. If you stick to the plan, it's likely you'll finish your tasks within the time schedule and all other criteria.
 
-### **Iterative**
+### Iterative
 
  Iterative means some of the phases and tasks will overlap or happen at the same time that other tasks are being worked on. Plans remain flexible and you're able to make adjustments as you go along.
 
@@ -271,10 +270,10 @@ In this phase, close out the project.
 
 
 
-## **Introduction of Waterfall and Agile**
+## Introduction of Waterfall and Agile
 
 
-### **Waterfall**
+### Waterfall
 
  Waterfall as a methodology was created in the 70s, and refers to the sequential ordering of phases. You complete one at a time down the line like a waterfall starting at the top of a mountain and traveling to the bottom. Waterfall has a *linear approach*. 
 
@@ -290,7 +289,7 @@ In this phase, close out the project.
 
 
 
-### **Agile**
+### Agile
 
  Projects that use an Agile approach often have many tasks being worked on at the same time, or in various stages of completion which makes it an iterative approach.
 
@@ -304,7 +303,7 @@ In this phase, close out the project.
 
 
 
-### **Waterfall and Agile Comparison**
+### Waterfall and Agile Comparison
 
 ![Pasted image 20240317161326](https://github.com/cascalpascal/Golden/assets/133131020/bb0b2141-057a-4f26-8e00-bebd925492f3)
 
@@ -313,7 +312,7 @@ In this phase, close out the project.
 
 
 
-## **Introduction to Lean and Six Sigma**
+## Introduction to Lean and Six Sigma
 
  Lean Six Sigma is a combination of two parent methodologies, Lean and Six Sigma. The uses for Lean Six Sigma are common in projects that have goals to save money, improve quality, and move through processes quickly. It also focuses on team collaboration which promotes a positive work environment. The idea is that when your team feels valued, motivation and productivity increases and the whole process functions more smoothly.
 
@@ -329,7 +328,7 @@ In this phase, close out the project.
 
 
 
-### **Lean**
+### Lean
 
  Lean methodology is often referred to as Lean Manufacturing because it originated in the manufacturing world. The main principle in Lean methodology is the removal of waste within an operation. By optimizing process steps and eliminating waste, only value is added at each phase of production.
 
@@ -389,4 +388,4 @@ In this phase, close out the project.
 - **Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
 - **Lean Six Sigma**. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems.
 
-![Pasted image 20240317171032](https://github.com/cascalpascal/Golden/assets/133131020/328a2ec0-eadb-4b8d-84f6-588327dd881b)
+![test](https://raw.githubusercontent.com/cascalpascal/cascalpascal.github.io/master/assets/images/favicon/Pasted%20image%2020240317171032.png)
