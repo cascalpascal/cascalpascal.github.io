@@ -8,13 +8,13 @@ tags:
   - certificate
 ---
 
-### Project
+## Project
 
 프로젝트는 원하는 결과를 얻기 위해 완료해야 하는 일련의 작업이다. 
 원하는 결과를 얻기 위해서는 협력과 신중한 계획이 필요하다. 
 이는 프로젝트가 계획대로 순조롭게 진행되고 예산 내에서 수행될 수 있도록 한다.
 
-### Project Management
+## Project Management
 
 지식, 기술, 도구 및 기법을 적용하여 프로젝트 요구 사항을 충족시키고 원하는 결과물을 달성하는 것이다. 
 PM은 프로젝트가 기대되는 결과물을 예정대로 제때에 그리고 예산 내에서 전달할 수 있도록 도와준다[^1]. 
@@ -37,7 +37,7 @@ PM의 일상 업무는 항상 planning과 organizing이 기본이다.
 예산 관리와 비용 통제는 프로젝트를 예산 범위 내에서 순조롭게 진행하기 위해 PM의 필수 책무이다. 
 프로젝트를 진행하면서 예상치 못한 비용이 발생하는 경우가 빈번하게 일어난다.
 
-### Finding the perfect role
+## Finding the perfect role
 
 분야에 따라 다르겠지만 Operation Manager, Program Manager, Operations Associate, Project Assistant 모두 타이틀은 Project Manager가 아니지만 내 skill에 맞을 수 있으니 타이틀에 제한을 두지 말아야 한다. 
 Job description에 다음과 같이 명시된 업무들은 나의 PM skills에 매칭된다.
