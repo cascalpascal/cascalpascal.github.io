@@ -8,19 +8,41 @@ tags:
   - project-management
 ---
 
+**Course**
+
+[[coursera] Google Project Management: Professional Certificate](https://cascalpascal.github.io/coursera-google-project-management-professional-certificate)
+
+---
+
+**Bookmark**
+
+- [Project life cycle](#project-life-cycle)
+
+- [Project management methodologies](#project-management-methodologies)
+    
+---
+
 # Project life cycle
+
+
 
 ### - **Initiate the project**
 
  You'll define project goals and deliverables, identify the budget and resources you'll need, the people involved in your project, and any other details that can impact the successful completion of your project. You'll document all this information in one place to showcase the project's value, and hopefully get approval to move forward with it. 
 
+
+
 ### - **Make a plan**
 
  Once the project is approved, it's time to get rolling. You'll make a plan for how you will meet the goals of your project. There are all kinds of ways to plan your project, and we'll get into some different methods and techniques later on. Right now, the important thing to know is that for every single project, creating a plan of how you're going to meet your goals is absolutely 100 percent essential. To be effective, your plan needs to include a lot of things. For example, a budget, a breakdown of all the tasks that you need to be completed, ways to communicate team roles and responsibilities, a schedule, resources, and what to do in case your project encounters problems or needs to change.
 
+
+
 ### - **Execute & complete tasks**
 
  While you might be in charge of completing certain tasks in the project, your primary tasks as the project manager are to monitor progress and keep your team motivated. You also remove any obstacles that might come up so that the tasks are executed well and on time. 
+
+
 
 ### - **Close the project**
 
@@ -28,6 +50,8 @@ tags:
 
 
 ---
+
+
 
 ## Case study: The significance of each project phase
 
@@ -49,7 +73,10 @@ tags:
 
  Now Jason has the time to get all of the key players involved in estimating the effort it will take to complete the project, including the cost, schedule, and resources.
 
+
+
 ### Apply the project life cycle
+
 
 #### **1. Initiating the project**
    
@@ -63,9 +90,13 @@ tags:
 
 - Jason then submits the proposal to Flight Simulators, Inc., and they accept it.
 
-#### **2. Making a plan**. Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks.
+
+#### **2. Making a plan**. 
+
+- Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks.
 
 - Jason *outlines the important deadlines and tasks* for the project to be successful. He creates a schedule to account for all resources, materials, and tasks needed to complete the project.
+
 
 #### **3. Executing and completing tasks**
 
@@ -75,6 +106,7 @@ tags:
 
 - It is also Jason’s responsibility to *communicate schedule and quality expectations*. Jason uses his communication skills to keep Flight Simulators, Inc. up to date on the project status and gather feedback from them.
 
+
 #### **4. Closing the project**
 
 - Jason’s team has successfully completed the training, and he delivers it to Flight Simulators, Inc. They are very pleased with how it turned out!
@@ -83,7 +115,9 @@ tags:
 
 >  It is your job as the project manager to make sure that your leadership truly understands the risk of not properly preparing for a project. Making **assumptions** that are incorrect can put your company at risk. Instead, taking the time to carefully initiate, plan, execute, and close your project leads to project success and good working relationships with customers.
 
+
 ---
+
 
 
 ## Initiate the project
@@ -93,6 +127,7 @@ tags:
 - **Find out what resources are available**. Resources can include people, equipment, software programs, vendors, physical space or locations, and more. Anything you need to actually complete the project is considered a resource.
 
 - **Get project approval**. You'll record all of these details in your project proposal and then get them approved by a decision maker or group of decision makers at your company so that you can move ahead with your project plans.
+
 
 
 ## Make a plan
@@ -112,15 +147,17 @@ tags:
  Once you have a plan, you'll communicate all of this information to your team. That way, each member will know which tasks they'll own and what to do if they have questions or if they run into problems. You'll also communicate your plan with others who have an interest in the project success, so that they are aware of your plans and your progress as the project continues to move forward. 
 
 
+
 ## Executing & complete tasks
 
 - **Manage the progress**. You'll oversee your team's efforts and make sure everyone understands what's expected of them, what tasks need to be done, and how and when to complete those tasks.
 
 - **Communicate**.  It's also your job to help remove any obstacles and to alert the right people if it looks like there might be a delay to the project. You'll need to communicate with your team, and anyone else involved in your project through meetings, written communications like memos, emails or internal chat tools, and other working documents like task reports.
 
-> Pro tip, if in doubt, err on the side of overcommunication.
+> Pro tip, **if in doubt, err on the side of overcommunication**.
 
 - **Make adjustments**. As your project progresses you'll make adjustments to the schedule, budget, and allocation of resources, clearly communicating updates all along the way. 
+
 
 
 ## Close the project
@@ -133,14 +170,16 @@ tags:
 
 - **Communicate results with stakeholders**. Collect all the project documentation that you created or collected along the way, including all of your plans and reflections, and share the final results of your project with your stakeholders. 
 
-> Pro tip, stakeholders play a huge role in the development, and success of your project.
+> Pro tip, **stakeholders play a huge role in the development, and success of your project**.
 
 - **Celebrate completing the project**. Celebrations help people feel good about the work they've done, and think of the work as uplifting and rewarding because it truly is.
 
 
+
 ## Summary of the project life cycle
 
-![[Pasted image 20240317152855.png]]
+![[Pasted image 20240317152855.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317152855.png)
+
 
 
 ### Initiate the project
@@ -157,12 +196,14 @@ tags:
 - What will the project cost? What are the benefits?
 
 
+
 ### Make a plan
 
  In this phase, make a plan to get your project from start to finish. 
 
 - Create a detailed project plan. What are the major milestones? What tasks or deliverables make up each milestone?  
 - Build out the schedule so you can properly manage the resources, budget, materials, and timeline. Here, you will create an itemized budget.
+
 
 
 ### Execute the project
@@ -174,6 +215,7 @@ tags:
 - Help keep the team aware of schedule and deliverable expectations.
 - Address weaknesses in your process or examine places where your team may need additional training to meet the project’s goals.
 - Adapt to changes in the project as they arise.
+
 
 
 ### Close the project
@@ -188,6 +230,7 @@ In this phase, close out the project.
 - Reflect on ways to improve in the future.
 
 
+
 ### **Key takeaway**
 
  Each phase of the project life cycle has its own significance and reason for existing. By following the project life cycle, you’re ensuring that you are:
@@ -197,12 +240,16 @@ In this phase, close out the project.
 - Executing project tasks and addressing any issues that arise
 - Closing out your project to capture any lessons learned
 
+
 ---
+
 
 
 # **Project management methodologies**
 
  A project management methodology is a set of guiding principles and processes for owning a project through its life cycle. Project management methodologies help guide project managers throughout a project with steps to take, tasks to complete, and principles for managing the project overall.
+
+
 
 ### **Linear**
 
@@ -217,7 +264,9 @@ In this phase, close out the project.
  Iterative projects allow for more flexibility and anticipate changes. You're able to test out parts of the project to make sure they work before the final result is delivered, and you can deliver parts of the project as they are completed, rather than waiting for the entire project to be done.
 
 
+
 ## **Introduction of Waterfall and Agile**
+
 
 ### **Waterfall**
 
@@ -234,6 +283,7 @@ In this phase, close out the project.
  Waterfall method has some risk management practices to help avoid and deal with project changes.
 
 
+
 ### **Agile**
 
  Projects that use an Agile approach often have many tasks being worked on at the same time, or in various stages of completion which makes it an iterative approach.
@@ -247,9 +297,11 @@ In this phase, close out the project.
  Projects that are best suited for an Agile approach are those where the client has an idea of what they want but doesn't have a concrete picture in mind, or they have a set of qualities they'd like to see in the end result, but aren't as concerned with exactly what it looks like. Another indicator that a project may benefit from Agile is the level of high uncertainty and risk involved with the project.
 
 
+
 ### **Waterfall and Agile Comparison**
 
-![[Pasted image 20240317161326.png]]
+![[Pasted image 20240317161326.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317161326.png)
+
 
 
 ## **Introduction to Lean and Six Sigma**
@@ -265,6 +317,7 @@ In this phase, close out the project.
 - **Control**. You've gotten the process and project to a good place, and now it's time to implement it and keep it there. Controlling is all about learning from the work you did up front to put new processes and documentation in place and continue to *monitor* so the company doesn't revert back to the old, inefficient way of doing things. 
 
  Lean Six Sigma and the DMAIC approach are ideal when the project goal includes improving the current process to fix complex or high risk problems like improving sales, conversions, or eliminating a bottleneck, which is when things get backed up during a process. Following the DMAIC process prevents the likelihood of skipping important steps and increases the chances of a successful project. As a way for your team to discover best practices that your client can use going forward, it uses data and focuses on the customer or end-user to solve problems in a way that builds on previous learning so that you can discover effective permanent solutions for difficult problems. 
+
 
 
 ### **Lean**
@@ -293,7 +346,8 @@ In this phase, close out the project.
 
  The final concept of Lean uses a **Kanban** scheduling system to manage production. The Kanban scheduling system, or Kanban board, is a visualization tool that enables you to optimize the flow of your team’s work. It gives the team a visual display to identify what needs to be done and when. The Kanban board uses cards that are moved from left to right to show progress and help your team coordinate the work.
 
-![[Pasted image 20240317165437.png]]
+![[Pasted image 20240317165437.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317165437.png)
+
 
 
 ### Six Sigma
@@ -315,6 +369,7 @@ In this phase, close out the project.
 >  After both Lean and Six Sigma were put into practice, it was discovered that the two methodologies could be combined to increase benefits. The tools used in Lean, such as *Kanban* boards and *5S*, build quality in processes from the beginning. Products developed using Lean methods are then inspected or tested using *Six Sigma standards*. The products that do not meet these standards are rejected.
 
 
+
 ### Popular project management approaches
 
 - **Waterfall**. In Waterfall, the criteria used to measure quality is clearly defined at the beginning of the project. The project manager is responsible for prioritizing and assigning tasks to team members.
@@ -324,3 +379,5 @@ In this phase, close out the project.
 - **Lean** uses the 5S quality tool to eliminate eight areas of waste, save money, improve quality, and streamline processes. Lean’s principles state that you can do more with less by addressing dysfunctions that create waste. Lean implements a Kanban scheduling system to manage production.
 - **Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
 - **Lean Six Sigma**. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems.
+
+![[Pasted image 20240317171032.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317171032.png)
