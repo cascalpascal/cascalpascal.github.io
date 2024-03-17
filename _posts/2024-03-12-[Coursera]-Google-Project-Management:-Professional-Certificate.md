@@ -14,13 +14,13 @@ tags:
 
 ## Foundations of Project Management
 
-Module 1: What is project management?
+1. What is project management?
 
-Module 2: Exploring how a project manager adds value
+2. Exploring how a project manager adds value
 
-Module 3: The project management life cycle and methodologies
+3. The project management life cycle and methodologies
 
-Module 4: Organizational structure and culture
+4. Organizational structure and culture
 
 ## Project Initiation: Starting a Successful Project
 
