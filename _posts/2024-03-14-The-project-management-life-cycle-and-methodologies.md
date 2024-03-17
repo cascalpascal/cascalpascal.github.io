@@ -180,7 +180,7 @@ tags:
 
 ## Summary of the project life cycle
 
-![Summary of the project life cycle](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240317152855.png?token=GHSAT0AAAAAACOMKHYFYH25E7MZ3NVA7UMQZPXEQNQ)
+![Summary of the project life cycle](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240317152855.png?raw=true)
 
 
 
@@ -305,7 +305,7 @@ In this phase, close out the project.
 
 ### Waterfall and Agile Comparison
 
-![Waterfall and Agile Comparison](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240317161326.png?token=GHSAT0AAAAAACOMKHYELYH73SHTKJI5VOWYZPXERBQ)
+![Waterfall and Agile Comparison](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240317161326.png?raw=true)
 
 
 ---
@@ -354,7 +354,7 @@ In this phase, close out the project.
 
  The final concept of Lean uses a **Kanban** scheduling system to manage production. The Kanban scheduling system, or Kanban board, is a visualization tool that enables you to optimize the flow of your team’s work. It gives the team a visual display to identify what needs to be done and when. The Kanban board uses cards that are moved from left to right to show progress and help your team coordinate the work.
 
-![Kanban board](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240317165437.png?token=GHSAT0AAAAAACOMKHYFAX7V56KY7WALESJIZPXERRA)
+![Kanban board](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240317165437.png?raw=true)
 
 
 
@@ -388,4 +388,4 @@ In this phase, close out the project.
 - **Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
 - **Lean Six Sigma**. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems.
 
-![Popular project management approaches](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240317171032.png?token=GHSAT0AAAAAACOMKHYFQREMYNW4TY3UVWIAZPXESBQ)
+![Popular project management approaches](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240317171032.png?raw=true)
