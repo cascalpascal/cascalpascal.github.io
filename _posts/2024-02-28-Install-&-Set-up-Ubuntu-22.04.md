@@ -11,10 +11,10 @@ tags: [tutorial, ubuntu]
 1. 설치 USB 준비
 - 프로그램 사용해서 Ubuntu 22.04 LTS iso 이미지 다운
 
-|OS|Tool|
-|---|---|
-|Windows|Rufus|
-|Ubuntu|Startup Disk Creator|
+| OS | Tool |
+|:---:|:---:|
+| Windows | Rufus |
+| Ubuntu | Startup Disk Creator |
 
 2. Ubuntu 설치
 - 바이오스 진입(msi: del 연타) 후 준비한 USB를 부팅 1순위로 변경
