@@ -1,96 +1,73 @@
 ## Project managers
 
-PM은 모든 단계에서 완벽한 organizational 및 대인 관계 기술을 사용하여 프로젝트를 처음부터 끝까지 지휘하고 팀의 가이드 역할을 한다.
-PM은 prioritization, delegation 및 effective communication을 통해 팀과 조직에 기여한다.
+PM은 모든 단계에서 완벽한 organizational 및 대인 관계 기술을 사용하여 프로젝트를 처음부터 끝까지 지휘하고 팀의 가이드 역할을 한다.PM은 prioritization, delegation 및 effective communication을 통해 팀과 조직에 기여한다.
 
-#### Prioritization
+- **Prioritization**
 
-효과적으로 tasks의 우선순위를 정할 수 있다면 더 나은 프로젝트 결과를 얻을 수 있다. 
-PM은 프로젝트를 완료하는 데 필요한 작업의 효과적인 우선순위 지정을 통해 팀과 조직을 돕는다. 
-PM은 팀 구성원이 대규모 작업을 식별하고 작은 단계로 세분화하도록 돕는 전문가이다. 
-어떤 작업의 우선순위를 정하기 위해 프로젝트 성공에 가장 중요한 요소들을 선별하기 위해 팀과 stakeholders와 소통하여 정보를 수집하고 계획을 세운다. 
-**Stakeholder**는 조직의 리더처럼 프로젝트의 완료와 성공에 영향을 받거나 관심이 있는 사람이다. 
+효과적으로 tasks의 우선순위를 정할 수 있다면 더 나은 프로젝트 결과를 얻을 수 있다. PM은 프로젝트를 완료하는 데 필요한 작업의 효과적인 우선순위 지정을 통해 팀과 조직을 돕는다. PM은 팀 구성원이 대규모 작업을 식별하고 작은 단계로 세분화하도록 돕는 전문가이다. 어떤 작업의 우선순위를 정하기 위해 프로젝트 성공에 가장 중요한 요소들을 선별하기 위해 팀과 stakeholders와 소통하여 정보를 수집하고 계획을 세운다. **Stakeholder**는 조직의 리더처럼 프로젝트의 완료와 성공에 영향을 받거나 관심이 있는 사람이다. 
 
-#### Delegation
+- **Delegation**
 
 PM은 각 task를 가장 잘 수행할 수 있는 인력에게 일을 연결할 줄 알아야한다.
 
-#### Effective communication
+- **Effective communication**
 
-PM은 팀과 stakeholders와 효과적으로 의사소통해야 한다. 
-이는 계획과 아이디어를 투명하게 제시하고 정보를 전달하는 것을 말한다. 
-PM은 작업 진행 상황에 대해 팀과 정기적으로 소통하고 팀원에게 지원이 필요한 분야를 알아내 도와야 한다.  
-PM은 프로젝트에 투자하는 회사 리더 등 팀 외부의 사람과도 소통해야 한다.
+PM은 팀과 stakeholders와 효과적으로 의사소통해야 한다. 이는 계획과 아이디어를 투명하게 제시하고 정보를 전달하는 것을 말한다. PM은 작업 진행 상황에 대해 팀과 정기적으로 소통하고 팀원에게 지원이 필요한 분야를 알아내 도와야 한다. PM은 프로젝트에 투자하는 회사 리더 등 팀 외부의 사람과도 소통해야 한다.
 
-###  Key project manager roles and responsibilities
+## Key project manager roles and responsibilities
 
-#### Planning and organizing
+- **Planning and organizing**
 
-- Making use of productivity tools and creating processes.
+  - Making use of productivity tools and creating processes.
   
-- Create plans, timelines, schedules, and other forms of documentation to track project completion
+  - Create plans, timelines, schedules, and other forms of documentation to track project completion
 
-#### Budgeting and controlling costs, and other factors
+- **Budgeting and controlling costs, and other factors**
 
-- Monitor and manage the budget
+  - Monitor and manage the budget
   
-- Track issues and risks as they arise
+  - Track issues and risks as they arise
   
-- Manage quality by mitigating those issues and risks
+  - Manage quality by mitigating those issues and risks
   
-- Removing unforeseen barriers that come up.
+  - Removing unforeseen barriers that come up.
 
-#### Managing task
+- **Managing task**
 
-- Keeping track of tasks is a great way to help manage the team's workload and ensure that things are getting done.
+  - Keeping track of tasks is a great way to help manage the team's workload and ensure that things are getting done.
   
-- Also a great tool for demonstrating progress to people outside the immediate team, like your stakeholders.
+  - Also a great tool for demonstrating progress to people outside the immediate team, like your stakeholders.
 
-###### example
+#### example
 
 Back when I was a program manager in Student Development here at Google, one of our goals was to create pathways for students who identify with communities that are underrepresented in the technology industry. A large part of my day-to-day responsibilities involved working with two separate engineering teams to create our technical curriculum. To manage the tasks associated with this project, I created separate project trackers for each team that outline the vision for the curriculum. These trackers kept both teams in the loop about the timeline for delivery, the categories and subcategories for work, and the team members assigned to each task, I also made sure to update our stakeholders every step of the way. By actively managing tasks throughout the project lifecycle, I was able to keep tabs on everyone's work and efficiently inform stakeholders, which allowed us to achieve our project goal with minimal issues. 
 
-### Responsibilities that utilize interpersonal skills
+## Responsibilities that utilize interpersonal skills
 
 **Interpersonal skills** are the behaviors you use to interact with others, such as communication, active listening, and leadership.
 
 ![[Pasted image 20240315094800.png]]
 
-#### Teaching and mentoring
+- **Teaching and mentoring**
 
-When you take the time to fully explain the expectations, you eliminate rework, confusion, and frustration. 
-Mentoring and teaching others the lessons that you, as a project manager, have learned allows your team to make better choices and build on your experience. 
-Mentoring also involves supporting each individual on your team in meeting expectations and helping them to exceed their own sense of personal potential.
+When you take the time to fully explain the expectations, you eliminate rework, confusion, and frustration. Mentoring and teaching others the lessons that you, as a project manager, have learned allows your team to make better choices and build on your experience. Mentoring also involves supporting each individual on your team in meeting expectations and helping them to exceed their own sense of personal potential.
 
-#### Building relationships
+- **Building relationships**
 
-Getting to know your team members lets them know that you care about them as people, not just as employees. 
-Taking the time to *build relationships* with your customers, clients, vendors, and other stakeholders is equally important. 
-*Dedicate* time to check in with people. 
-*Pay attention* to the insights they offer you about their work style since their actions can inform how to most effectively interact with them. 
-*Ask* about their lives beyond the project, and then follow up on those discussions later on to show your interest. 
-When you foster these relationships, you are all more invested in the success of your project.
+Getting to know your team members lets them know that you care about them as people, not just as employees. Taking the time to *build relationships* with your customers, clients, vendors, and other stakeholders is equally important. *Dedicate* time to check in with people. *Pay attention* to the insights they offer you about their work style since their actions can inform how to most effectively interact with them. *Ask* about their lives beyond the project, and then follow up on those discussions later on to show your interest. When you foster these relationships, you are all more invested in the success of your project.
 
-#### Controlling change
+- **Controlling change**
 
-Projects change as you continue to understand the expectations and the needs of your stakeholders. 
-As a project manager, you need to remain flexible and adjust to the stakeholders’ needs. 
-However, it is also important to protect your team from constant change and rework. 
-As the project manager, you are responsible for protecting your team.
+Projects change as you continue to understand the expectations and the needs of your stakeholders. As a project manager, you need to remain flexible and adjust to the stakeholders’ needs. However, it is also important to protect your team from constant change and rework. As the project manager, you are responsible for protecting your team.
 
-A good way to do this is by documenting the initial expectations of the project and clearly identifying the changes being requested. 
-It is also helpful to understand the budget and schedule impact of the changes and make sure that the stakeholders understand those impacts.
+A good way to do this is by documenting the initial expectations of the project and clearly identifying the changes being requested. It is also helpful to understand the budget and schedule impact of the changes and make sure that the stakeholders understand those impacts.
 
-#### Empowering your team
-Giving your team the ability to work directly with the stakeholders and their teams lets them know that you trust and believe in their skills! 
-One of the best things about empowering your team is getting fresh ideas and passionate employees willing to help find solutions to problems. 
-Another way you can empower your team is by delegating responsibilities to them, allowing them to make some decisions for the project, and using their input in the planning and execution of the project.
+- **Empowering your team**
+Giving your team the ability to work directly with the stakeholders and their teams lets them know that you trust and believe in their skills! One of the best things about empowering your team is getting fresh ideas and passionate employees willing to help find solutions to problems. Another way you can empower your team is by delegating responsibilities to them, allowing them to make some decisions for the project, and using their input in the planning and execution of the project.
 
-#### Communicating status and concerns
+- **Communicating status and concerns**
 
-With effective communication, you can work together with your team to find solutions to challenges. 
-The project manager sets the tone for the project. 
-Maintaining an open door policy and building trust within your team and among stakeholders—all while staying positive—will help the success of the project.
+With effective communication, you can work together with your team to find solutions to challenges. The project manager sets the tone for the project. Maintaining an open door policy and building trust within your team and among stakeholders—all while staying positive—will help the success of the project.
 
 ### A project manager’s role within a team
 
@@ -108,7 +85,7 @@ Instead you're responsible for guiding your team and making sure that they have
 - Third, you'll need to understand and help teammates adopt the right workflows and project management styles. As the project manager, you'll likely have the best idea of which style is best for the work. It's your job to ensure that the team adheres to that style and the other systems in place. 
 - Fourth, you'll need to collaborate with other teams at the organization to meet the requirements based on project, scope, schedule, and budget. In other words, a project may affect not only your team, but other teams at an organization, as well as, say, the marketing or the finance team. So you'll need to work with those teams to ensure that everyone is happy with the project outcomes.
 
-### Working with cross-functional teams
+### **Working with cross-functional teams**
 
 A **cross-functional team** includes team members who have different backgrounds, types of expertise, and job functions but they are all working towards a common goal: the successful completion of your project. 
 Sometimes the members of a cross-functional team are referred to as “T-shaped professionals.” 
@@ -116,7 +93,7 @@ They are skilled in how to collaborate and innovate with those in different job 
 
 ![[Pasted image 20240315102202.png]]
 
-#### Clarify goals
+#### **Clarify goals**
 
 When working with cross-functional teams, it is important to ensure that each member of the team understands their role, how they support each other, and the common goals of the project. 
 It is vital to set clear goals for the team and make sure that the team understands those goals. 
@@ -124,7 +101,7 @@ It is vital to set clear goals for the team and make sure that the team understa
 When communicating task or project goals, make sure you define key items, such as budget, deadlines, quality requirements, or important resources. 
 Your project may be competing against other priorities, so communicating clearly and often with your team—and vice versa—helps you identify any potential issues or concerns before they arise.
 
-#### Get team members with the right skills
+#### **Get team members with the right skills**
 
 Making sure you have team members with the correct skill sets for each of the project functions is critical. 
 As the project manager, you must help ensure that your team has the right people with the right skill sets needed for the project to succeed.
