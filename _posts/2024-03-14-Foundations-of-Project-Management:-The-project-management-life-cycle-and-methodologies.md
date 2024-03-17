@@ -26,25 +26,25 @@ tags:
 
 
 
-### - **Initiate the project**
+- **Initiate the project**
 
  You'll define project goals and deliverables, identify the budget and resources you'll need, the people involved in your project, and any other details that can impact the successful completion of your project. You'll document all this information in one place to showcase the project's value, and hopefully get approval to move forward with it. 
 
 
 
-### - **Make a plan**
+- **Make a plan**
 
  Once the project is approved, it's time to get rolling. You'll make a plan for how you will meet the goals of your project. There are all kinds of ways to plan your project, and we'll get into some different methods and techniques later on. Right now, the important thing to know is that for every single project, creating a plan of how you're going to meet your goals is absolutely 100 percent essential. To be effective, your plan needs to include a lot of things. For example, a budget, a breakdown of all the tasks that you need to be completed, ways to communicate team roles and responsibilities, a schedule, resources, and what to do in case your project encounters problems or needs to change.
 
 
 
-### - **Execute & complete tasks**
+- **Execute & complete tasks**
 
  While you might be in charge of completing certain tasks in the project, your primary tasks as the project manager are to monitor progress and keep your team motivated. You also remove any obstacles that might come up so that the tasks are executed well and on time. 
 
 
 
-### - **Close the project**
+- **Close the project**
 
  Why is it important to close? One big reason is so your team has a moment to celebrate all of their hard work. Closing the project is also a chance to evaluate how the project went. You can make note of what worked and what didn't so you can plan better for next time. Even if the project was a massive success, it's helpful to take time to reflect. Closing the project is also a great way to connect with anyone outside your team who may have had interest in the project's goal. You can let everyone know what was completed and what you accomplished. 
 
@@ -91,7 +91,7 @@ tags:
 - Jason then submits the proposal to Flight Simulators, Inc., and they accept it.
 
 
-#### **2. Making a plan**. 
+#### **2. Making a plan**
 
 - Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks.
 
@@ -175,10 +175,13 @@ tags:
 - **Celebrate completing the project**. Celebrations help people feel good about the work they've done, and think of the work as uplifting and rewarding because it truly is.
 
 
+---
+
+
 
 ## Summary of the project life cycle
 
-![[Pasted image 20240317152855.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317152855.png)
+![Pasted image 20240317152855](https://github.com/cascalpascal/Golden/assets/133131020/7e163bf2-d823-4243-a886-0e2f9d5f2fb5)
 
 
 
@@ -264,6 +267,9 @@ In this phase, close out the project.
  Iterative projects allow for more flexibility and anticipate changes. You're able to test out parts of the project to make sure they work before the final result is delivered, and you can deliver parts of the project as they are completed, rather than waiting for the entire project to be done.
 
 
+---
+
+
 
 ## **Introduction of Waterfall and Agile**
 
@@ -300,7 +306,10 @@ In this phase, close out the project.
 
 ### **Waterfall and Agile Comparison**
 
-![[Pasted image 20240317161326.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317161326.png)
+![Pasted image 20240317161326](https://github.com/cascalpascal/Golden/assets/133131020/bb0b2141-057a-4f26-8e00-bebd925492f3)
+
+
+---
 
 
 
@@ -346,7 +355,7 @@ In this phase, close out the project.
 
  The final concept of Lean uses a **Kanban** scheduling system to manage production. The Kanban scheduling system, or Kanban board, is a visualization tool that enables you to optimize the flow of your team’s work. It gives the team a visual display to identify what needs to be done and when. The Kanban board uses cards that are moved from left to right to show progress and help your team coordinate the work.
 
-![[Pasted image 20240317165437.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317165437.png)
+![Pasted image 20240317165437](https://github.com/cascalpascal/Golden/assets/133131020/57a12d6a-c6ea-4f0b-b51b-e05104034006)
 
 
 
@@ -380,4 +389,4 @@ In this phase, close out the project.
 - **Six Sigma** involves reducing variations by ensuring that quality processes are followed every time. The Six Sigma method follows a process-improvement approach called DMAIC, which stands for define, measure, analyze, improve, and control.
 - **Lean Six Sigma**. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems.
 
-![[Pasted image 20240317171032.png]](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240317171032.png)
+![Pasted image 20240317171032](https://github.com/cascalpascal/Golden/assets/133131020/328a2ec0-eadb-4b8d-84f6-588327dd881b)
