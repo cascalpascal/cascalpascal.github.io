@@ -14,11 +14,11 @@ tags:
 
 ## Foundations of Project Management
 
-Module 1: What is project management?
+[Module 1: What is project management?](https://cascalpascal.github.io/what-is-project-management)
 
-Module 2: Exploring how a project manager adds value
+[Module 2: Exploring how a project manager adds value](https://cascalpascal.github.io/exploring-how-a-project-manager-adds-value)
 
-Module 3: The project management life cycle and methodologies
+[Module 3: The project management life cycle and methodologies](https://cascalpascal.github.io/the-project-management-life-cycle-and-methodologies)
 
 Module 4: Organizational structure and culture
 
