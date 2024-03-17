@@ -89,7 +89,7 @@ tags:
 
 **Interpersonal skills** are the behaviors you use to interact with others, such as communication, active listening, and leadership.
 
-![imageaddresscopy](https://github.com/cascalpascal/Golden/blob/main/File%20Archive/Pasted%20image%2020240315094800.png?raw=true)
+[![Responsibilities that utilize interpersonal skills](https://raw.githubusercontent.com/cascalpascal/Golden/main/File%20Archive/Pasted%20image%2020240315094800.png?token=GHSAT0AAAAAACOMKHYEZASFMS2KK26L6CXCZPXEPAA)
 
 - **Teaching and mentoring**
 
