@@ -9,7 +9,7 @@ tags:
 ---
 
 # Course
-
+---
 ## Foundations of Project Management
 
 Module 1: What is project management?
