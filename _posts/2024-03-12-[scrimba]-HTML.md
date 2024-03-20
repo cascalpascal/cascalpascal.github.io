@@ -93,7 +93,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ![html-input(1)](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240312163336.png?raw=true)
 
-#### input type의 종류
+#### - input type의 종류
 - date
 - time
 - password
