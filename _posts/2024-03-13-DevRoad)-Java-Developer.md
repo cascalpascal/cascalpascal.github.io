@@ -18,25 +18,25 @@ tags:
 
 ## [Jump to Java](https://wikidocs.net/book/31)
 
-[ch01: What is Java?](https://cascalpascal.github.io/what-is-java)
+[Ch 01: What is Java?](https://cascalpascal.github.io/what-is-java)
 
-ch02: Starting Java
+Ch 02: Starting Java
 
-ch03: Basics of Java - Data Types
+Ch 03: Basics of Java - Data Types
 
-ch04: Understanding Control Statements
+Ch 04: Understanding Control Statements
 
-ch05: Object-Oriented Programming
+Ch 05: Object-Oriented Programming
 
-ch06: Input and Output in Java
+Ch 06: Input and Output in Java
 
-ch07: Taking Java to the Next Level
+Ch 07: Taking Java to the Next Level
 
-ch08: How to Start Java Programming?
+Ch 08: How to Start Java Programming?
 
-ch09: 15 Java Coding License Exam Questions
-
-
+Ch 09: 15 Java Coding License Exam Questions
+ 
+ 
 # Intermediate
   
   
