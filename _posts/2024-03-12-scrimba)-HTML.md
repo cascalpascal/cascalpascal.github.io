@@ -10,7 +10,7 @@ tags:
 
 >**Course**
 >
->[[devroad] Full Stack](https://cascalpascal.github.io/devroad-full-stack)
+>[[DevRoad] Full Stack Developer](https://cascalpascal.github.io/devroad-full-stack)
 
 >**Bookmarks**
 >
