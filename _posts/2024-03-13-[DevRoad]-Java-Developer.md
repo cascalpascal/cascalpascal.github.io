@@ -14,11 +14,9 @@ tags:
 ---
 
 
-# Beginner
+## [Jump to Java](https://wikidocs.net/book/31)
 
-[Jump to Java](https://wikidocs.net/book/31)
-
-ch01: What is Java?
+[ch01: What is Java?](https://cascalpascal.github.io/what-is-java)
 
 ch02: Starting Java
 
