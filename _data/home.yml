@@ -14,9 +14,11 @@ project_entries:
     desc: Google Project Management Professional Certificate
     highlight: WIP
 
-#  - title: Project 2
-#    url: overview-post
-#    desc: Projects are shown in card layout
+  - title: Full Stack
+    url: devroad-full-stack
+    desc: Full Stack Developer Roadmap
+    highlight: WIP
+    
 #
 #  - title: Project 3
 #    url: overview-post
