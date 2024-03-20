@@ -24,11 +24,11 @@ project_entries:
     url: devroad-java-developer
     desc: Java Developer Roadmap
     highlight: WIP
-#
-#  - title: Project 4
-#    url: overview-post
-#    desc: This project uses highlight markup, configured in _data/home.yml
-#    highlight: WIP
+
+  - title: Python
+    url: devroad-python-developer
+    desc: Python Developer Roadmap
+    highlight: WIP
 #
 #  - title: Project 5
 #    url: overview-post
