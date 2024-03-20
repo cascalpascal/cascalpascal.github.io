@@ -9,7 +9,7 @@ tags:
 
 >**Course**
 >
->[[devroad]Java Developer: Jump to Java](https://cascalpascal.github.io/devroad-java-developer)
+>[[DevRoad]Java Developer: Jump to Java](https://cascalpascal.github.io/devroad-java-developer)
 
 >**Bookmarks**
 >
@@ -26,35 +26,35 @@ tags:
 
 
 
-### Things you can do with Java
+## Things you can do with Java
 
 - Web programming
-
-인터넷 게시판이나 방명록을 바로 웹 프로그램이라 하며 자바는 이러한 웹 프로그램 개발에 널리 사용된다. 특히 서버 사이드(백엔드) 개발에 강점이 있다. Servlet, JSP, Spring Framework 등과 같은 기술들을 사용하여 웹 프로그램을 개발할 수 있다.
+  
+  인터넷 게시판이나 방명록을 바로 웹 프로그램이라 하며 자바는 이러한 웹 프로그램 개발에 널리 사용된다. 특히 서버 사이드(백엔드) 개발에 강점이 있다. Servlet, JSP, Spring Framework 등과 같은 기술들을 사용하여 웹 프로그램을 개발할 수 있다.
 
 - Android application
   
 - Game development
   
-게임 개발을 위한 대표적인 자바 라이브러리로는 Lightweight Java Game Library, 자바 프레임워크로는 libGDX가 있다.
+  게임 개발을 위한 대표적인 자바 라이브러리로는 Lightweight Java Game Library, 자바 프레임워크로는 libGDX가 있다.
 
 - Database processing
   
-자바는 데이터베이스 시스템에 연결하여 데이터를 관리하는 데 매우 적합한 언어이다.
+  자바는 데이터베이스 시스템에 연결하여 데이터를 관리하는 데 매우 적합한 언어이다.
 
 - Big data and distributed processing
   
-빅 데이터는 대규모의 복잡한 데이터를 의미하며, 전통적인 데이터 처리 방식으로는 분석이 어렵다. 이를 효과적으로 처리하기위해 분산 처리 기술이 사용된다. 자바는 Hadoop, Spark와 같은 빅 데이터 처리에 필요한 도구와 프레임워크를 제공한다.
+  빅 데이터는 대규모의 복잡한 데이터를 의미하며, 전통적인 데이터 처리 방식으로는 분석이 어렵다. 이를 효과적으로 처리하기위해 분산 처리 기술이 사용된다. 자바는 Hadoop, Spark와 같은 빅 데이터 처리에 필요한 도구와 프레임워크를 제공한다.
 
 
 
-### Things you can't do with Java
+## Things you can't do with Java
 
 - System Programming
   
 - 높은 성능을 요구하는 프로젝트
   
-자바는 Garbage Collection과 just-in-time 컴파일러 같은 기능 때문에 실행 속도가 다소 느릴 수 있다. 따라서 고성능이 중요한 분야에서는 C, C++, 또는 Rust 같은 언어가 적합하다.
+  자바는 Garbage Collection과 just-in-time 컴파일러 같은 기능 때문에 실행 속도가 다소 느릴 수 있다. 따라서 고성능이 중요한 분야에서는 C, C++, 또는 Rust 같은 언어가 적합하다.
 
 > Garbage Collection은 프로그램에서 사용되지않는 메모리를 자동으로 회수하는 메모리 관리 기법이다.
 > Just-in-time compiler는 프로그램 실행 시점에 바이트 코드를 기계어로 변환하는 기술이다.
@@ -151,30 +151,30 @@ $  java helloworld
 1. Simple
    
 2. Object-oriented
-   
-	숫자(int, float. long 등)나 논릿값(true, false) 같은 원시 자료형을 제외하고 거의 모두 객체로 구성된다.
+
+   숫자(int, float. long 등)나 논릿값(true, false) 같은 원시 자료형을 제외하고 거의 모두 객체로 구성된다.
 
 3. Interpreted
    
 4. robust
-   
-	포인터 연산을 지원하지 않아 잘못된 주소를 가리킬 가능성을 사전에 없앴다. 모든 메모리 접근을 자바 시스템이 관리하고 제한하며 예외처리까지 하므로 시스템이 붕괴될 우려가 없다.
+
+   포인터 연산을 지원하지 않아 잘못된 주소를 가리킬 가능성을 사전에 없앴다. 모든 메모리 접근을 자바 시스템이 관리하고 제한하며 예외처리까지 하므로 시스템이 붕괴될 우려가 없다.
 
 5. Secured
-
- 자바는 프로그램을 작성할 때 자료형 타입에 매우 민감하다. 그래서 자바는 일단 컴파일만 되면 실행할 때 오류 발생률이 현저히 낮다.
+  
+   자바는 프로그램을 작성할 때 자료형 타입에 매우 민감하다. 그래서 자바는 일단 컴파일만 되면 실행할 때 오류 발생률이 현저히 낮다.
 
 6. Platform independent
 
- 자바로 작성한 프로그램이라면 운영체제와 상관없이 어디서든 실행할 수 있다.
+   자바로 작성한 프로그램이라면 운영체제와 상관없이 어디서든 실행할 수 있다.
 
 7. Multithreaded
 
-	멀티 프로세서 하드웨어를 지원하도록 설계되어 멀티 CPU 시스템에서 효율이 높다.
+   멀티 프로세서 하드웨어를 지원하도록 설계되어 멀티 CPU 시스템에서 효율이 높다.
 
 8. Dynamic
 
- 자바 인터페이스를 이용하면 모듈을 갱신할 때 다른 모듈까지 모두 갱신할 필요가 없다. 인터페이스가 인스턴스 변수와 도구의 실행문을 모두 배제한 채 객체 간의 상호 작용을 정의하기 때문이다.
+   자바 인터페이스를 이용하면 모듈을 갱신할 때 다른 모듈까지 모두 갱신할 필요가 없다. 인터페이스가 인스턴스 변수와 도구의 실행문을 모두 배제한 채 객체 간의 상호 작용을 정의하기 때문이다.
 
 ---
 
