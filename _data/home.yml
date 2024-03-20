@@ -16,24 +16,24 @@ project_entries:
 
   - title: Full Stack
     url: devroad-full-stack-developer
-    desc: Full Stack Developer Roadmap
+    desc: Full Stack Developer Course
     highlight: WIP
     
 
   - title: Java
     url: devroad-java-developer
-    desc: Java Developer Roadmap
+    desc: Java Developer Course
     highlight: WIP
 
   - title: Python
     url: devroad-python-developer
-    desc: Python Developer Roadmap
+    desc: Python Developer Course
     highlight: WIP
-#
-#  - title: Project 5
-#    url: overview-post
-#    desc: Moonwalk also has horizontal list (used in header and footer)
-#    highlight: WIP
+
+  - title: Rust
+    url: devroad-rust-developer
+    desc: Rust Developer Couse
+    highlight: WIP
 #
 #  - title: Project 6
 #    url: overview-post
