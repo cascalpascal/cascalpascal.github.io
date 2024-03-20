@@ -17,7 +17,7 @@ tags:
 
 ## [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
-Ch 01. Getting Started
+[Ch 01. Getting Started](https://cascalpascal.github.io/the-rust-programming-language-getting-started)
 
 Ch 02. Programming a Guessing Game
 
