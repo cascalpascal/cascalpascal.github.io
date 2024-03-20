@@ -19,10 +19,11 @@ project_entries:
     desc: Full Stack Developer Roadmap
     highlight: WIP
     
-#
-#  - title: Project 3
-#    url: overview-post
-#    desc: You can control visibility from _config.yml file
+
+  - title: Java
+    url: devroad-java-developer
+    desc: Java Developer Roadmap
+    highlight: WIP
 #
 #  - title: Project 4
 #    url: overview-post
