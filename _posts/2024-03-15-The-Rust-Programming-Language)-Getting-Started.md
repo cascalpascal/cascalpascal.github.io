@@ -15,7 +15,7 @@ tags:
 >
 >- [Installing rustup](#installing-rustup-on-linux-or-macos)
 >
->- [Hello World!](#hello-world!)
+>- [Hello World!](#hello-world)
 >
 >- [Anatomy of a Rust program](#anatomy-of-a-rust-program)
 >
