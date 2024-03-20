@@ -9,7 +9,7 @@ tags:
 
 >**Course**
 >
->[[DevRoad] Python Developer: Chobo-python](https://cascalpascal.github.io/devroad-python-developer)
+>[[DevRoad] Python Developer: Chobo-Python](https://cascalpascal.github.io/devroad-python-developer)
 
 >**Bookmarks**
 >
