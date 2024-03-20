@@ -6,7 +6,7 @@ tags:
   - full stack
 ---
 
-https://roadmap.sh/full-stack
+[Full Stack Developer Roadmap](https://roadmap.sh/full-stack)
 
 # Course
 
@@ -20,13 +20,16 @@ CSS
 
 **Checkpoint - Static Webpages**
 
+
 JavaScript
 
 **Checkpoint - Interactivity**
 
+
 npm
 
 **Checkpoint - External Packages**
+
 
 Git
 
@@ -34,9 +37,11 @@ GitHub
 
 **Checkpoint - Collabrative Work**
 
+
 Tailwind, React
 
 **Checkpoint - Frontend Apps**
+
 
 ## Backend
 
@@ -44,9 +49,11 @@ Node.js
 
 **Checkpoint - CLI Apps**
 
+
 PostgreSQL
 
 **Checkpoint - Simple CRUD**
+
 
 RESTful APIs
 
@@ -56,6 +63,7 @@ Redis
 
 **Checkpoint - Complete App**
 
+
 ## DevOPs
 
 Linux Basics
@@ -64,17 +72,21 @@ Basic AWS Services
 
 **Checkpoint - Deployment**
 
+
 Monit
 
 **Checkpoint - Monitoring**
+
 
 Github Actions
 
 **Checkpoint - CI/CD**
 
+
 Ansible
 
 **Checkpoint - Automation**
+
 
 Terraform
 
