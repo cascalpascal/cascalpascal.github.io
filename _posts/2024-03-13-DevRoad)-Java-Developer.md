@@ -36,16 +36,16 @@ ch09: 15 Java Coding License Exam Questions
 
 
 # Intermediate
-
-
-
+ 
+ 
+ 
 # Advanced
-
-
-
+ 
+ 
+ 
 # Practical
 
 [초보자를 위한 Java 200제](http://www.infopub.co.kr/index.asp)
-
-
-
+ 
+ 
+ 
