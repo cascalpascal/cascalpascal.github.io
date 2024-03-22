@@ -19,7 +19,7 @@ tags:
 
 [Ch 01: Starting Python](https://cascalpascal.github.io/chobo-python-starting-python)
 
-Ch 02: Control Structures
+[Ch 02: Control Structures](https://cascalpascal.github.io/chobo-python-control-structures)
 
 Ch 03: Functions
 
