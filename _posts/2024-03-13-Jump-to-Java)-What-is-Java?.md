@@ -121,7 +121,8 @@ javac는 java vompiler의 줄임말이다.
 
 - 다음과 같은 내용의 helloworld.java 파일을 생성
   
-```
+```java
+// helloworld.java
 public class helloworld {
     public static void main(String[] args) {
         System.out.println("Hello World!");

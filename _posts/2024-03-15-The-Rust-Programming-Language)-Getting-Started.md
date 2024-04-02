@@ -67,9 +67,8 @@ $ cd hello_world
 
 ## Writing and running a Rust program
 
-- Filename: main.rs
-
-```
+```rust
+// main.rs
 fn main() {
     println!("Hello, world!");
 }
@@ -92,7 +91,7 @@ Hello, world!
 
 # Anatomy of a Rust program
 
-```
+```rust
 fn main() {
 
 }
@@ -104,7 +103,7 @@ fn main() {
 
 main 함수 내부(body)에는 다음과 같은 코드가 있다. 작성한 프로그램은 '스크린에 텍스트를 출력' 역할을 한다. 
 
-```
+```rust
     println!("Hello, world!");
 ```
 
@@ -160,7 +159,7 @@ edition = "2021"
 
 *src/main.rs*를 텍스트 에디터로 열어보자.
 
-```
+```rust
 fn main() {
     println!("Hello, world!");
 }

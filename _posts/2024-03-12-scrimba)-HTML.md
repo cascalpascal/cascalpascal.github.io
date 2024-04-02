@@ -40,7 +40,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ### 앞뒤 헤딩을 통해 글씨 크기 조정
 
-```
+```html
 <h1>Who are you?</h1>  
 <h3>Hi, my name is Pascal.</h3>  
 <p>Nice to meet you.</p>
@@ -52,7 +52,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ### 같은 디렉토리 안에 있는 이미지 넣고 사이즈 스케일링 하기
 
-```
+```html
 <img src="이미지파일명.jpg" width="50%">
 ```
 
@@ -62,7 +62,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ### 코드를 편하게 관리하기 위해 문단 나누기 - div 사용
 
-```
+```html
 <div>  
     <h1>Who are you?</h1>  
     <h3>Hi, my name is Pascal.</h3>  
@@ -76,7 +76,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ### button 생성
 
-```
+```html
 <button>  
     Nice!  
 </button>
@@ -87,7 +87,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ### Input 칸 추가
 
-```
+```html
 <input type="text" placeholder="What's your name?">
 ```
 
@@ -103,7 +103,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ### Anchor tag 사용하여 링크 연결
 
-```
+```html
 Allow me to provide more details about myself <a href="연결할 파일 또는 주소">here.</a>
 ```
 
@@ -111,7 +111,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 
 - 만약 새 창으로 링크를 열게 하고 싶다면 target 추가
 
-```
+```html
 <a href="연결할 파일 또는 주소" target="_blank">here.</a>
 ```
 
@@ -119,7 +119,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 
 ### Proper document structure
 
-```
+```html
 <!DOCTYPE html>  
 <html>  
 <head>  
@@ -144,7 +144,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 
 - ol(ordered list)
 
-```
+```html
 <p>Here are some of my favorite nicknames. Call me whatever you like!</p>  
 <ol>  
     <li>Mr.Frog</li>  
@@ -158,7 +158,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 
 - ul(unordered list)
 
-```
+```html
 <p>Here are some of my favorite nicknames. Call me whatever you like!</p>  
 <ul>  
     <li>Mr.Frog</li>  
