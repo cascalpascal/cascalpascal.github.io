@@ -295,6 +295,7 @@ Project governance needs to be tailored to your organization's specific needs. T
 Corporate governance can involve clearing many hurdles before making decisions. At the same time, corporate governance can help support project governance, as it provides oversight on compliance and mitigating risk and offers guidance and direction for project managers. Good corporate governance can also help project managers secure resources, get issues addressed, avoid delays in decision-making, get buy-in from stakeholders, and achieve visibility for projects on the executive level.
 
 
+<br>
 
 ---
 

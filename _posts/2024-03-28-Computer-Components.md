@@ -14,18 +14,18 @@ tags:
 
 >**Bookmarks**
 >
->- [Configuration of Computer](# configuration-of-computer)
+>- [Computer Components](#computer-components)
 >
->- [Hardware](# hardware)
+>- [Hardware](#hardware)
 >
->- [Software](# software)
+>- [Software](#software)
 
 
 ---
 
 <br>
 
-# Configuration of Computer
+# Computer Components 
 - Hardware: Mechanical devices that make up a computer
 - Software: A set of instructions that directs and controls the operation of hardware
 

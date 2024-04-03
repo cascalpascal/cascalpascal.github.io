@@ -24,13 +24,13 @@ tags:
 
 [Module 3: The project management life cycle and methodologies](https://cascalpascal.github.io/the-project-management-life-cycle-and-methodologies)
 
-Module 4: Organizational structure and culture
+[Module 4: Organizational structure and culture](https://cascalpascal.github.io/organizational-structure-and-culture)
 
 <br>
 
 ## Project Initiation: Starting a Successful Project
 
-Module 1: Fundamentals of project initiation
+[Module 1: Fundamentals of project initiation](https://cascalpascal.github.io/foundamentals-of-project-initiation)
 
 Module 2: Defining project goals, scope, and success criteria
 

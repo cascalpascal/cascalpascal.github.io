@@ -13,16 +13,16 @@ tags:
 
 >**Bookmarks**
 >
->- [Functioning principle of the CPU](#Functioning-principle-of-the-CPU)
+>- [Operation Principle of CPU](#operation-principle-of-central-processing-unit(cpu))
 >
->- [CPU operation process](#CPU-operation-process)
+>- [CPU operation process](#cpu-operation-process)
 
 
 ---
 
 <br>
 
-# Functioning principle of the CPU
+# Operation Principle of Central Processing Unit(CPU)  
 The CPU plays the most critical role in a computer sustem, often referred to as the "brain". It consists of three main components: the Arithmetic Logic Unit, the Control Unit, and registers.
 
 <br>

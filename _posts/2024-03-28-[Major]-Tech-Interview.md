@@ -17,9 +17,9 @@ tags:
 
 ## Algorithm
 
-Bubble Sort  
-Selection Sort  
-Insertion Sort  
+[Bubble Sort](https://cascalpascal.github.io/bubble-sort)  
+[Selection Sort](https://cascalpascal.github.io/selection-sort)  
+[Insertion Sort](https://cascalpascal.github.io/insertion-sort)  
 Quick Sort  
 Merge Sort  
 Heap Sort  
@@ -40,7 +40,7 @@ BitMask
 ## Computer Architecture
 
 Computer Components  
-Operation Principle of Central Processing Unit (CPU)  
+Operation Principle of Central Processing Unit(CPU)  
 Cache Memory  
 Fixed Point & Floating Point  
 Parity Bit & Hamming Code  

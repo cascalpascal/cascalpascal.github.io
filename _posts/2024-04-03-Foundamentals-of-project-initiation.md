@@ -78,7 +78,7 @@ The process of calculating costs and benefits is also called calculating **retur
 
 One common ROI formula is:
 
-$$(G-C)/C=ROI$$
+$(G-C)/C=ROI$
 
 - **G** : the financial gains you expect from the project
 - **C** : the upfront and ongoing costs of your investment in the project.
@@ -116,6 +116,7 @@ A project charter is a document that contains all the details of the project. Pr
 
 ![[Pasted image 20240403160625.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240403160625.png?raw=true)
 
+<br>
 
 ---
 
