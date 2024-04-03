@@ -47,6 +47,7 @@ tags:
 
  Why is it important to close? One big reason is so your team has a moment to celebrate all of their hard work. Closing the project is also a chance to evaluate how the project went. You can make note of what worked and what didn't so you can plan better for next time. Even if the project was a massive success, it's helpful to take time to reflect. Closing the project is also a great way to connect with anyone outside your team who may have had interest in the project's goal. You can let everyone know what was completed and what you accomplished. 
 
+<br>
 
 ---
 
@@ -72,9 +73,9 @@ tags:
 
  Now Jason has the time to get all of the key players involved in estimating the effort it will take to complete the project, including the cost, schedule, and resources.
 
+<br>
 
-
-### Apply the project life cycle
+## Apply the project life cycle
 
 
 #### 1. Initiating the project
@@ -114,6 +115,7 @@ tags:
 
 >  It is your job as the project manager to make sure that your leadership truly understands the risk of not properly preparing for a project. Making **assumptions** that are incorrect can put your company at risk. Instead, taking the time to carefully initiate, plan, execute, and close your project leads to project success and good working relationships with customers.
 
+<br>
 
 ---
 
@@ -127,7 +129,7 @@ tags:
 
 - **Get project approval**. You'll record all of these details in your project proposal and then get them approved by a decision maker or group of decision makers at your company so that you can move ahead with your project plans.
 
-
+<br>
 
 ## Make a plan
 
@@ -145,7 +147,7 @@ tags:
 
  Once you have a plan, you'll communicate all of this information to your team. That way, each member will know which tasks they'll own and what to do if they have questions or if they run into problems. You'll also communicate your plan with others who have an interest in the project success, so that they are aware of your plans and your progress as the project continues to move forward. 
 
-
+<br>
 
 ## Executing & complete tasks
 
@@ -157,7 +159,7 @@ tags:
 
 - **Make adjustments**. As your project progresses you'll make adjustments to the schedule, budget, and allocation of resources, clearly communicating updates all along the way. 
 
-
+<br>
 
 ## Close the project
 
@@ -173,6 +175,7 @@ tags:
 
 - **Celebrate completing the project**. Celebrations help people feel good about the work they've done, and think of the work as uplifting and rewarding because it truly is.
 
+<br>
 
 ---
 
@@ -242,6 +245,7 @@ In this phase, close out the project.
 - Executing project tasks and addressing any issues that arise
 - Closing out your project to capture any lessons learned
 
+<br>
 
 ---
 
@@ -265,6 +269,8 @@ In this phase, close out the project.
 
  Iterative projects allow for more flexibility and anticipate changes. You're able to test out parts of the project to make sure they work before the final result is delivered, and you can deliver parts of the project as they are completed, rather than waiting for the entire project to be done.
 
+
+<br>
 
 ---
 
@@ -307,6 +313,7 @@ In this phase, close out the project.
 
 ![Waterfall and Agile Comparison](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240317161326.png?raw=true)
 
+<br>
 
 ---
 
@@ -389,3 +396,12 @@ In this phase, close out the project.
 - **Lean Six Sigma**. It is often used in projects that aim to save money, improve quality, and move through processes quickly. Lean Six Sigma is also ideal for solving complex or high-risk problems.
 
 ![Popular project management approaches](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240317171032.png?raw=true)
+
+
+<br>
+
+---
+
+### Reference
+
+[Coursera: Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations)

@@ -13,6 +13,7 @@ tags:
 
 ---
 
+<br>
 
 # Basic
 
@@ -35,15 +36,16 @@ Ch 07: Taking Java to the Next Level
 Ch 08: How to Start Java Programming?
 
 Ch 09: 15 Java Coding License Exam Questions
- 
- 
+   
+<br>
+
 # Intermediate
   
-  
+<br>  
  
 # Advanced
  
- 
+<br> 
  
 # Practical
 

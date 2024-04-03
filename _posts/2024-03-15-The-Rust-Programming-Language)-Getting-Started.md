@@ -54,6 +54,8 @@ $ echo $PATH
 $ rustc --version
 ```
 
+<br>
+
 # Hello World!
 
 ## Create a project directory
@@ -88,6 +90,8 @@ $ ./main
 Hello, world!
 ```
 
+<br>
+
 
 # Anatomy of a Rust program
 
@@ -120,7 +124,7 @@ Cargo는 러스트의 시스템 및 패키지 매니저이다. Cargo는 코드�
 $ cargo --version
 ```
 
-
+<br>
 
 # Cargo를 사용하여 프로젝트 생성하기
 
@@ -223,6 +227,7 @@ $ cargo build --release
 
 당신의 프로젝트가 릴리즈를 위한 준비를 마쳤다면, 위의 커맨드를 사용하여 최적화와 함께 이를 컴파일할 수 있다. 이 커맨드는 *target/debug* 대신 *target/release*에 실행파일을 생성할 것이다. 최적화는 당신의 러스트 코드를 더 빠르게 만들어주지만, 최적화를 켜는 것은 당신의 프로그램을 컴파일하는데 드는 시간을 길게 할 것이다: 이것이 바로 두 개의 서로 다른 프로파일이 있는 이유이다. 하나는 당신이 빠르게, 자주 다시 빌드하기 위한 개발용, 그리고 다른 하나는 반복적으로 다시 빌드를 할 필요 없이 가능한 빠르게 실행되어 당신이 사용자들에게 제공할 최종 프로그램을 빌드하기 위한 용도이다. 만약 당신이 코드의 실행 시간을 벤치마킹 중이라면, ```cargo build --release```를 실행하고 *target/release*의 실행파일을 가지고 벤치마킹하고 있음을 상기해야 한다.
 
+<br>
 
 ---
 ## Reference

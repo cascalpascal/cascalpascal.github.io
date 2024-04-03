@@ -26,7 +26,7 @@ tags:
     
 ---
 
-
+<br>
 
 # Project managers
 
@@ -50,7 +50,7 @@ tags:
 
  Project managers need to effectively communicate with the team and stakeholders, which involves presenting plans and ideas transparently and conveying information clearly. They should communicate regularly with the team about the progress of tasks and identify areas where team members need support. Additionally, they need to communicate with external individuals, such as company leaders investing in the project.
 
-
+<br>
 
 # Key project manager roles and responsibilities
 
@@ -77,15 +77,15 @@ tags:
   - Keeping track of tasks is a great way to help manage the team's workload and ensure that things are getting done.
   - Also a great tool for demonstrating progress to people outside the immediate team, like your stakeholders.
 
-
+<br>
 
 #### Example
 
  Back when I was a program manager in Student Development here at Google, one of our goals was to create pathways for students who identify with communities that are underrepresented in the technology industry. A large part of my day-to-day responsibilities involved working with two separate engineering teams to create our technical curriculum. To manage the tasks associated with this project, I created separate project trackers for each team that outline the vision for the curriculum. These trackers kept both teams in the loop about the timeline for delivery, the categories and subcategories for work, and the team members assigned to each task, I also made sure to update our stakeholders every step of the way. By actively managing tasks throughout the project lifecycle, I was able to keep tabs on everyone's work and efficiently inform stakeholders, which allowed us to achieve our project goal with minimal issues. 
 
+<br>
 
-
-## Responsibilities that utilize interpersonal skills
+# Responsibilities that utilize interpersonal skills
 
 **Interpersonal skills** are the behaviors you use to interact with others, such as communication, active listening, and leadership.
 
@@ -114,7 +114,7 @@ Giving your team the ability to work directly with the stakeholders and their te
 
 With effective communication, you can work together with your team to find solutions to challenges. The project manager sets the tone for the project. Maintaining an open door policy and building trust within your team and among stakeholders—all while staying positive—will help the success of the project.
 
-
+<br>
 
 ## A project manager’s role within a team
 
@@ -132,9 +132,9 @@ Instead you're responsible for guiding your team and making sure that they have
 - Third, you'll need to understand and help teammates adopt the right workflows and project management styles. As the project manager, you'll likely have the best idea of which style is best for the work. It's your job to ensure that the team adheres to that style and the other systems in place. 
 - Fourth, you'll need to collaborate with other teams at the organization to meet the requirements based on project, scope, schedule, and budget. In other words, a project may affect not only your team, but other teams at an organization, as well as, say, the marketing or the finance team. So you'll need to work with those teams to ensure that everyone is happy with the project outcomes.
 
+<br>
 
-
-## **Working with cross-functional teams**
+# **Working with cross-functional teams**
 
 A **cross-functional team** includes team members who have different backgrounds, types of expertise, and job functions but they are all working towards a common goal: the successful completion of your project. 
 Sometimes the members of a cross-functional team are referred to as “T-shaped professionals.” 
@@ -184,9 +184,9 @@ Learning what makes your team members feel supported, giving and taking feedback
 
 > Being able to communicate clearly with team members, clarify the goals of the project, get team members with the right skills, measure team progress, and recognize team members’ efforts is an important part of your role as the project manager, and is key to your project’s success.
 
+<br>
 
-
-## **The core skills of project manager**
+# **The core skills of project manager**
 
 
 
@@ -249,7 +249,7 @@ One way to do this is by utilizing the abundance of organizational tools availab
 - Documentation (files, plans, spreadsheets)
 - Quality assurance tools (evaluations, productivity trackers, reports)
 
-
+<br>
 
 ## Leadership and team dynamics
 
@@ -267,3 +267,12 @@ A project manager's ability to guide teammates to complete their assigned work w
 - **Negotiation**. You'll need to use your negotiation skills often with your teammates and stakeholders to balance their needs and what is best for the project.
 - **Conflict mediation**. Conflict mediation is a great skill to practice and develop to ensure the project does not suffer as a result.
 - **Understanding motivations**. This means getting to know your teammates and figuring out what pushes them to do their best work. Understanding motivations might also include learning how your teammates prefer to receive feedback, and how they like to receive recognition for doing a great job. 
+
+
+<br>
+
+---
+
+### Reference
+
+[Coursera: Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations)

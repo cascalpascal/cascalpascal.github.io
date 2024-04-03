@@ -151,6 +151,8 @@ while문 종료.
 
 따라서, 답은 853.
 
+<br>
+
 ---
 
 # 조건문
@@ -294,6 +296,8 @@ else:
     print(f'출력 연도 {year}년은 평년입니다.')
 ```
 
+<br>
+
 
 # and/or 연산자
 ## if 문에 and/or를 사용
@@ -372,6 +376,10 @@ print(f"You're {gen}.")
 ```
 
   > ```lower()```함수를 사용하여 영문 대문자를 소문자로 바꾼 값을 돌려준다.
+
+
+<br>
+
 
 # for 반복문
 
@@ -480,6 +488,9 @@ Alert!
 ```
 
 
+<br>
+
+
 # match-case
 
 ## 홀수, 짝수 판별
@@ -541,6 +552,9 @@ FizzBuzz
 ```
 
 
+<br>
+
+
 # for-else와 while-else
 
 ## for-else
@@ -568,6 +582,9 @@ else:
     print('발사!')
 ```
 
+<br>
+
 ---
+
 ## Reference
 [https://wikidocs.net/55](https://wikidocs.net/55)
