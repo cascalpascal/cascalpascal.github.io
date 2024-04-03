@@ -35,7 +35,7 @@ Bubble Sort  is an algorithm similar to Selection Sort. This algorithm traverses
 <br>
 
 ## Time Complexity: O(n^2)
-(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2
+(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2  
 Since Bubble Sort compares two elements, whether sorted or not, the time complexity is the same in the best, average, and worst cases as **O(n^2)**.
 
 <br>

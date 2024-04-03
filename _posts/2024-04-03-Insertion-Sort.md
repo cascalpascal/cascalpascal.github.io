@@ -40,7 +40,7 @@ It has an incredibly fast efficiency of **O(n)** in the best case, making it a g
 
 ## Time Complexity: O(n), O(n^2)
 In the case where everything is sorted (Optimal), the comparison is performed only once, so the time complexity is **O(n)**. 
-In the average and worst case (if sorted in reverse) **O(n^2)**, $(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2$ .
+In the average and worst case (if sorted in reverse) **O(n^2)**, (n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2
 
 Additionally, when inserting/removing data one by one from an already sorted array, it is realistically the best sorting algorithm because the overhead excluding search is very low.
 

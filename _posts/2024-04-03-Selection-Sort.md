@@ -45,7 +45,7 @@ It is good to know as this is an algorithm that often appears in technical inter
 ## Time Complexity: O(n^2)
 If there are n elements in the array, the number of comparisons in the first cycle is n-1(1 through (n-1)). In the second cycle, n-2(2 through n-1).
 
-$(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2$
+(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2  
 
 Sorting a given array of n elements takes **O(n^2)** time, assuming that the comparison is done in constant time. The time complexity for the best, average, and worst cases is the same as O(n^2).
 

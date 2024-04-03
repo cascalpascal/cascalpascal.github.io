@@ -78,7 +78,9 @@ The process of calculating costs and benefits is also called calculating **retur
 
 One common ROI formula is:
 
-$(G-C)/C=ROI$
+
+$ (G-C)/C=ROI $
+
 
 - **G** : the financial gains you expect from the project
 - **C** : the upfront and ongoing costs of your investment in the project.

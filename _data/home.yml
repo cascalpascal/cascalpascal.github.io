@@ -38,6 +38,7 @@ project_entries:
   - title: Major
     url: major-tech-interview
     desc: Preparing major knowledge
+    highlight: WIP
 
 #old_project_entries:
 #  - title: Soopr
