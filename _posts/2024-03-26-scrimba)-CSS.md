@@ -45,7 +45,7 @@ body {
 }
 ```
 
-![[Pasted image 20240326101933.png]]
+![[Pasted image 20240326101933.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326101933.png?raw=true)
 
 <br>
 ## Link to the CSS file
@@ -64,7 +64,7 @@ body {
 </html>
 ```
 
-![[Pasted image 20240326103239.png]]
+![[Pasted image 20240326103239.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326103239.png?raw=true)
 
 <br>
 
@@ -80,22 +80,23 @@ input {
 }
 ```
 
-![[Pasted image 20240326103558.png]]
+![[Pasted image 20240326103558.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326103558.png?raw=true)
 
 <br>
+
 ## Inline & block elements
 
 Elements를 가로로 나열하고 싶으면 inline 사용.
 
-![[Pasted image 20240326103957.png]]
+![[Pasted image 20240326103957.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326103957.png?raw=true)
 
 Elements를 세로로 나열하고 싶으면 block 사용.
 
-![[Pasted image 20240326104118.png]]
+![[Pasted image 20240326104118.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326104118.png?raw=true)
 
 <br>
 
-![[Pasted image 20240326103844.png]]
+![[Pasted image 20240326103844.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326103844.png?raw=true)
 
 ```css
 /* styles.css*/
@@ -111,9 +112,10 @@ input {
 }
 ```
 
-![[Pasted image 20240326104747.png]]
+![[Pasted image 20240326104747.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326104747.png?raw=true)
 
 <br>
+
 ## Margin top
 
 ```css
@@ -131,9 +133,10 @@ input {
 }
 ```
 
-![[Pasted image 20240326105019.png]]
+![[Pasted image 20240326105019.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326105019.png?raw=true)
 
 <br>
+
 # CSS classes
 
 ### div에 class 속성을 주고 변수 할당하기
@@ -174,7 +177,7 @@ input {
 }
 ```
 
-![[Pasted image 20240326105019.png]]
+![[Pasted image 20240326105019.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326105019.png?raw=true)
 
 <br>
 
@@ -201,7 +204,7 @@ margin-top, margin-left, margin-right, margin-bottom 에 값을 지정해서 공
 }
 ```
 
-![[Pasted image 20240326112043.png]]
+![[Pasted image 20240326112043.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326112043.png?raw=true)
 
 
 ## Centering elements
@@ -231,9 +234,10 @@ Element를 중앙 정렬 시키기 위해선 ```display: block```으로 수평�
 }
 ```
 
-![[Pasted image 20240326112917.png]]
+![[Pasted image 20240326112917.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326112917.png?raw=true)
 
 <br>
+
 # Padding
 
 padding을 통해 element 내에 작성한 글자에 상하좌우 공백을 줄 수 있다. margin과 비슷하지만 margin은 전체 페이지와 element간의 공백을 다루고 padding은 element 내에서 다룬다.
@@ -254,9 +258,10 @@ padding을 통해 element 내에 작성한 글자에 상하좌우 공백을 줄 
 }
 ```
 
-![[Pasted image 20240326113648.png]]
+![[Pasted image 20240326113648.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326113648.png?raw=true)
 
 <br>
+
 # Border
 
 ```css
@@ -277,7 +282,7 @@ padding을 통해 element 내에 작성한 글자에 상하좌우 공백을 줄 
 }
 ```
 
-![[Pasted image 20240326113952.png]]
+![[Pasted image 20240326113952.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326113952.png?raw=true)
 
 border 모서리를 둥글게 하고 싶다면 다음을 추가한다.
 
@@ -285,9 +290,10 @@ border 모서리를 둥글게 하고 싶다면 다음을 추가한다.
 border-radius: 30px;
 ```
 
-![[Pasted image 20240326114116.png]]
+![[Pasted image 20240326114116.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326114116.png?raw=true)
 
 <br>
+
 ### button 꾸미기
 
 ```css
@@ -304,9 +310,10 @@ button {
 }
 ```
 
-![[Pasted image 20240326114956.png]]
+![[Pasted image 20240326114956.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326114956.png?raw=true)
 
 <br>
+
 ### Google 따라하기
 
 ```css
@@ -339,7 +346,7 @@ button {
 }
 ```
 
-![[Pasted image 20240326115551.png]]
+![[Pasted image 20240326115551.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326115551.png?raw=true)
 
 <br>
 
@@ -381,9 +388,10 @@ button {
 }
 ```
 
-![[Pasted image 20240326120714.png]]
+![[Pasted image 20240326120714.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240326120714.png?raw=true)
 
 <br>
+
 # Flexbox
 
 Flex layout always consists of a container and its direct children.
@@ -425,9 +433,10 @@ Flex layout always consists of a container and its direct children.
 ```
 
 
-![[Pasted image 20240402091953.png]]
+![[Pasted image 20240402091953.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240402091953.png?raw=true)
 
 <br>
+
 ### Google 따라하기 예제
 
 ```html
@@ -499,9 +508,10 @@ Flex layout always consists of a container and its direct children.
 }
 ```
 
-![[Pasted image 20240402092946.png]]
+![[Pasted image 20240402092946.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240402092946.png?raw=true)
 
 <br>
+
 # 내 프로젝트에 적용
 
 ```html
@@ -615,7 +625,7 @@ Flex layout always consists of a container and its direct children.
 }
 ```
 
-![[Pasted image 20240402113339.png]]
+![[Pasted image 20240402113339.png]](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/Course/Pasted%20image%2020240402113339.png?raw=true)
 
 
 <br>
