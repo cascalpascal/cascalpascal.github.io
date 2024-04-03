@@ -39,8 +39,8 @@ BitMask
 
 ## Computer Architecture
 
-Computer Components  
-Operation Principle of Central Processing Unit(CPU)  
+[Computer Components](https://cascalpascal.github.io/foundamentals-of-project-initiation)  
+[Operation Principle of Central Processing Unit(CPU)](https://cascalpascal.github.io/operation-principle-of-central-processing-unit-cpu)  
 Cache Memory  
 Fixed Point & Floating Point  
 Parity Bit & Hamming Code  
