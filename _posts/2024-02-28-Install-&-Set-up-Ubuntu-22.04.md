@@ -12,10 +12,10 @@ tags: [tutorial, ubuntu]
    
 - 프로그램 사용해서 Ubuntu 22.04 LTS iso 이미지 다운
 
-| OS | Tool |
+| OS | Tool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:---|:---|
 | Windows | Rufus |
-| Ubuntu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Startup Disk Creator |
+| Ubuntu| Startup Disk Creator |
 
 ### 2. Ubuntu 설치
    
