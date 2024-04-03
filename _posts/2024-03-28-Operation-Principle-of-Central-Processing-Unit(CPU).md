@@ -13,7 +13,7 @@ tags:
 
 >**Bookmarks**
 >
->- [Operation Principle of CPU](#operation-principle-of-central-processing-unit(cpu))
+>- [Operation Principle of CPU](#operation-principle-of-central-processing-unitcpu)
 >
 >- [CPU operation process](#cpu-operation-process)
 

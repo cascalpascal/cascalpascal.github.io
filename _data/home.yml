@@ -34,10 +34,10 @@ project_entries:
     url: devroad-rust-developer
     desc: Rust Developer Course
     highlight: WIP
-#
-#  - title: Project 6
-#    url: overview-post
-#    desc: It also has a scalable vertical list (in case you need it)
+
+  - title: Major
+    url: major-tech-interview
+    desc: Preparing major knowledge
 
 #old_project_entries:
 #  - title: Soopr

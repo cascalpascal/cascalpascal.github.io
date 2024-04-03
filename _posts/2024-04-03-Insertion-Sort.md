@@ -14,9 +14,9 @@ tags:
 >
 >- [Process](#process)
 >
->- [Time Complexity](#time-complexity:-o(n),-o(n^2))
+>- [Time Complexity](#time-complexity:-on,-on^2)
 >
->- [Space Complexity](#space-complexity:-o(n))
+>- [Space Complexity](#space-complexity:-on)
 >
 >- [Pros and Cons](#pros)
 >
