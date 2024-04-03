@@ -15,7 +15,7 @@ tags: [tutorial, ubuntu]
 | OS | Tool |
 |:---|:---|
 | Windows | Rufus |
-| Ubuntu | Startup Disk Creator |
+| Ubuntu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Startup Disk Creator |
 
 ### 2. Ubuntu 설치
    
