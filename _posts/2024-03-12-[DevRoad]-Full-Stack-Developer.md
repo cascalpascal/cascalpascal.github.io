@@ -17,82 +17,54 @@ tags:
 
 ## Frontend
 
-[HTML](https://cascalpascal.github.io/scrimba-html)
+[HTML](https://cascalpascal.github.io/scrimba-html)  
+[CSS](https://cascalpascal.github.io/scrimba-css)  
+**Checkpoint - Static Webpages**  
 
-CSS
+JavaScript  
+**Checkpoint - Interactivity**  
 
-**Checkpoint - Static Webpages**
+npm  
+**Checkpoint - External Packages**  
 
+Git  
+GitHub  
+**Checkpoint - Collabrative Work**  
 
-JavaScript
-
-**Checkpoint - Interactivity**
-
-
-npm
-
-**Checkpoint - External Packages**
-
-
-Git
-
-GitHub
-
-**Checkpoint - Collabrative Work**
-
-
-Tailwind, React
-
-**Checkpoint - Frontend Apps**
+Tailwind, React  
+**Checkpoint - Frontend Apps**  
 
 <br>
 
 ## Backend
 
-Node.js
+Node.js  
+**Checkpoint - CLI Apps**  
 
-**Checkpoint - CLI Apps**
+PostgreSQL  
+**Checkpoint - Simple CRUD**  
 
-
-PostgreSQL
-
-**Checkpoint - Simple CRUD**
-
-
-RESTful APIs
-
-JWT Auth
-
-Redis
-
-**Checkpoint - Complete App**
+RESTful APIs  
+JWT Auth  
+Redis  
+**Checkpoint - Complete App**  
 
 <br>
 
 ## DevOPs
 
-Linux Basics
+Linux Basics  
+Basic AWS Services  
+**Checkpoint - Deployment**  
 
-Basic AWS Services
+Monit  
+**Checkpoint - Monitoring**  
 
-**Checkpoint - Deployment**
+Github Actions  
+**Checkpoint - CI/CD**  
 
+Ansible  
+**Checkpoint - Automation**  
 
-Monit
-
-**Checkpoint - Monitoring**
-
-
-Github Actions
-
-**Checkpoint - CI/CD**
-
-
-Ansible
-
-**Checkpoint - Automation**
-
-
-Terraform
-
-**Checkpoint - Infrastructure**
+Terraform  
+**Checkpoint - Infrastructure**  
