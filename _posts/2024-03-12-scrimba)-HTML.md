@@ -32,11 +32,11 @@ tags:
 
 HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 작성하고 CSS로 홈페이지에 색을 입혀주고 JavaScript를 통해 데이터 베이스를 관리하거나 유저 간 거래를 생성하는 등의 기능을 입혀준다.
 
-
+<br>
 
 # Build your website
 
-
+<br>
 
 ### 앞뒤 헤딩을 통해 글씨 크기 조정
 
@@ -48,7 +48,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ![html-heading(1)](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240312163529.png?raw=true)
 
-
+<br>
 
 ### 같은 디렉토리 안에 있는 이미지 넣고 사이즈 스케일링 하기
 
@@ -58,7 +58,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ![html-imagescale(1)](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240312163500.png?raw=true)
 
-
+<br>
 
 ### 코드를 편하게 관리하기 위해 문단 나누기 - div 사용
 
@@ -73,6 +73,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 </div>
 ```
 
+<br>
 
 ### button 생성
 
@@ -84,6 +85,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 
 ![html-button(1)](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240312163434.png?raw=true)
 
+<br>
 
 ### Input 칸 추가
 
@@ -100,6 +102,7 @@ HTML로 버튼, 사진, 내용과 같이 홈페이지를 구성하는 요소를 
 - color
 - file: 파일 선택
 
+<br>
 
 ### Anchor tag 사용하여 링크 연결
 
@@ -115,7 +118,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 <a href="연결할 파일 또는 주소" target="_blank">here.</a>
 ```
 
-
+<br>
 
 ### Proper document structure
 
@@ -138,7 +141,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 
 ![html-structure(1)](https://github.com/cascalpascal/cascalpascal.github.io/assets/133131020/22a27a2c-b895-468a-a8ad-17c2d770916f)
 
-
+<br>
 
 ### Lists
 
@@ -171,8 +174,7 @@ Allow me to provide more details about myself <a href="연결할 파일 또는 �
 ![html-unorderedlist(1)](https://github.com/cascalpascal/cascalpascal.github.io/blob/master/assets/images/favicon/Pasted%20image%2020240312174234.png?raw=true)
 
 
-
-
+<br>
 
 
 ---

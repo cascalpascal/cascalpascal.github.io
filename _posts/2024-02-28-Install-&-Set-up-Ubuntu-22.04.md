@@ -6,7 +6,11 @@ tags: [tutorial, ubuntu]
 
 # Ubuntu 초기 세팅 
 
+<br>
+
 ## Ubuntu 설치
+
+<br>
 
 ### 1. 설치 USB 준비
    
@@ -16,6 +20,8 @@ tags: [tutorial, ubuntu]
 |---|--------------------------|
 | Windows | Rufus |
 | Ubuntu| Startup Disk Creator |
+
+<br>
 
 ### 2. Ubuntu 설치
    
@@ -33,6 +39,7 @@ tags: [tutorial, ubuntu]
     
   - root: ext4로 설정. 남은 공간 모두 할당.(/home 따로 안나눠도됨)
 
+
 #### 한국어 설정
   
 - Region & Language -> Language: '한국어'로 변경
@@ -46,6 +53,8 @@ tags: [tutorial, ubuntu]
 - 키보드 바로 가기 -> 바로 가기 보기 및 사용자 설정-> 입력 중-> '사용 않음'으로 변경
 
 - 다시 시작
+
+<br>
 
 ## Basic Setup
 
@@ -85,7 +94,11 @@ $ git config --global user.email "your_useremail_example"
   
 - nvm
 
+<br>
+
 ## Git-GitHub Repository 연동
+
+<br>
 
 ### Generate a new SSH key and add it to the ssh-agent
 
@@ -115,6 +128,8 @@ $ cat ~/.ssh/id_rsa.pub
 
 - Add your SSH public key to the GitHub account
 
+<br>
+
 ### Git과 GitHub Repository 연동
 
 - 현재 디렉토리에서 Git 저장소 초기화
@@ -138,6 +153,8 @@ $ git add test.txt
 $ git commit -sm "Test commit"
 $ git push -u origin main
 ```
+
+<br>
 
 ### GitHub 명령어
 
@@ -182,7 +199,9 @@ $ git remote -v
 ```
 $ git push origin master
 ```
-  
+
+<br>
+
 ### Install GitHub desktop on Ubuntu
 
 ```

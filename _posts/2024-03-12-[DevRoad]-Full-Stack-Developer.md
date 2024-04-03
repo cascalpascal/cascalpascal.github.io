@@ -13,6 +13,8 @@ tags:
 
 ---
 
+<br>
+
 ## Frontend
 
 [HTML](https://cascalpascal.github.io/scrimba-html)
@@ -43,6 +45,7 @@ Tailwind, React
 
 **Checkpoint - Frontend Apps**
 
+<br>
 
 ## Backend
 
@@ -64,6 +67,7 @@ Redis
 
 **Checkpoint - Complete App**
 
+<br>
 
 ## DevOPs
 

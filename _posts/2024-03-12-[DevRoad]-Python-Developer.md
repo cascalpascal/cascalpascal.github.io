@@ -13,6 +13,8 @@ tags:
 
 ---
 
+<br>
+
 # Basic
 
 ## [Chobo-Python](https://wikidocs.net/book/2)
@@ -37,16 +39,15 @@ Ch 09: Testing and Performance
 
 Appendix
 
- 
- 
+<br>
  
 # Intermediate
  
- 
+<br> 
  
 # Advanced
  
- 
+<br> 
  
 # Practical
 
