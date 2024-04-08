@@ -38,9 +38,9 @@ It has an incredibly fast efficiency of **O(n)** in the best case, making it a g
 
 <br>
 
-## Time Complexity: O(n), O(n^2)
+## Time Complexity: O(n), O(n<sup>2</sup>)
 In the case where everything is sorted (Optimal), the comparison is performed only once, so the time complexity is **O(n)**. 
-In the average and worst case (if sorted in reverse) **O(n^2)**, (n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2
+In the average and worst case (if sorted in reverse) **O(n<sup>2</sup>)**, $`(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2`S
 
 Additionally, when inserting/removing data one by one from an already sorted array, it is realistically the best sorting algorithm because the overhead excluding search is very low.
 
@@ -62,7 +62,7 @@ Therefore, the space complexity of Insertion Sort is **O(n)**, which indicates t
 <br>
 
 ## Cons
-- In the average and worst case, the time complexity is O(n^2), which is *inefficient*.
+- In the average and worst case, the time complexity is O(n<sup>2</sup>), which is *inefficient*.
 - It becomes more inefficient as the length of the array increases.
 
 <br>

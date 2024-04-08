@@ -34,9 +34,9 @@ Bubble Sort  is an algorithm similar to Selection Sort. This algorithm traverses
 
 <br>
 
-## Time Complexity: O(n^2)
-(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2  
-Since Bubble Sort compares two elements, whether sorted or not, the time complexity is the same in the best, average, and worst cases as **O(n^2)**.
+## Time Complexity: O(n<sup>2</sup>)
+$`(n-1) + (n-2) + (n-3) + .... + 2 + 1 => n(n-1)/2`$
+Since Bubble Sort compares two elements, whether sorted or not, the time complexity is the same in the best, average, and worst cases as **O(n<sup>2</sup>)**.
 
 <br>
 
@@ -53,7 +53,7 @@ Bubble Sort is an in-place sorting algorithm, meaning it sorts the elements with
 <br>
 
 ## Cons
-- *Inefficient*. Time complexity is O(n^2).
+- *Inefficient*. Time complexity is O(n<sup>2</sup>).
 - To reach their sorted positions from unsorted ones, there are numerous swap operations involved.
 - It performs poorly especially for large datasets or nearly sorted lists.
 
